@@ -11,7 +11,14 @@ const Cards = ({data: {confirmed, recovered, deaths, lastUpdate} }) => {
     
     
     return( 
+    <div>
+        <h1><CountUp start = {0} end = {confirmed.value} duration = {2.5} separator = ','/></h1>
+        <h1><CountUp start = {0} end = {recovered.value} duration = {2.5} separator = ','/></h1>
+        <h1><CountUp start = {0} end = {deaths.value} duration = {2.5} separator = ','/></h1>
+    </div>
+
     
+        /*
         <div className = {styles.container}>
             <Grid container spacing={3} justify="center">
                 <Grid item component={Card} xs={12} md={3}  className={cx(styles.card,styles.infected)}>
@@ -52,7 +59,7 @@ const Cards = ({data: {confirmed, recovered, deaths, lastUpdate} }) => {
 
 
         </div>
- 
+ */
     )
     
     
