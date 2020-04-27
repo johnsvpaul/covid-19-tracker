@@ -35,7 +35,7 @@ const Cards = ({data: {confirmed, recovered, deaths, lastUpdate} }) => {
 
         <div className ={styles.lastupdate}>
        
-        <h6> *** Last Updated {min} minutes ago </h6>
+        <h6> *** Updated less than {min} minutes ago </h6>
         
         </div>
         <div className ={styles.select}>Please select your country below</div>

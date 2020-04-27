@@ -1,9 +1,9 @@
 import React from 'react';
 
-import {Cards,Chart,CountryPicker, IpCountry,Welcome, Nav, Table} from './components'
+import {Cards,Chart,CountryPicker, IpCountry,Welcome, Nav,} from './components'
 import styles from './App.module.css'
 import {fetchData} from './api'
-import covid19 from './img/covid19.png'
+
 
 
 

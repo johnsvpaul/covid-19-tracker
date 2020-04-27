@@ -2,7 +2,7 @@
 
 
 .welcome{
-   
+    overflow-x: hidden;
     width: 100%;
     font-family: 'Lato', sans-serif;
     text-align: left !important;

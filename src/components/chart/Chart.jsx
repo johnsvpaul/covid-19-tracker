@@ -23,7 +23,7 @@ const Chart = ({data:{confirmed, recovered, deaths }, country}) => {
 
     const lineChart = (
         
-        <Bar
+        <Line
 
             data = {{
                     labels: dailyData.map(({date})=>date),

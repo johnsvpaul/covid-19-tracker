@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Manrope:wght@300&family=Montserrat:wght@500;600&display=swap');
 
+li{
+    list-style: none;
+    margin-bottom: 7px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+    color: #fff;
+    font-size: 16px;
+
+}
 
 .footerarea{
     color: #fff;
@@ -47,9 +58,13 @@
     flex: 0 0 30%;
 }
 .col2{
+    flex: 0 0 15%;
+}
+.col3{flex: 0 0 15%;}
+
+.col4{
     flex: 0 0 30%;
 }
-.col3{flex: 0 0 30%;}
 
 .footersep{
     
@@ -75,7 +90,19 @@ p{
 }
 
 .heading{
+    
+    margin-bottom: 14px;
     font-size: 24px;
     font-weight: 700;
     font-family: 'Lato', sans-serif;
 }
+.share img {
+    width: 35px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+    }
+
+ 
+     

@@ -31,12 +31,12 @@ import logo2 from './img/logo/covidlogow.png'
         
 */
 
-
+/*=====uncommet this
 mapboxgl.accessToken =
 'pk.eyJ1Ijoiam9obnN2cGF1bCIsImEiOiJjazlnMWN0Nm4wZ3l3M2ZvOXcybWo1cW1mIn0.tNAdCL2R8VxgEfd1NTOX_Q';
 const map = new mapboxgl.Map({
 container: 'map',
-style: 'mapbox://styles/mapbox/streets-v11',//dark mode - dark-v10
+style: 'mapbox://styles/mapbox/dark-v10',//dark mode - dark-v10
 zoom: 1.3
 });
 fetch('https://corona.lmao.ninja/v2/countries')
@@ -66,7 +66,7 @@ fetch('https://corona.lmao.ninja/v2/countries')
     map.scrollZoom.disable();
     //toggle fullscreen mode
     map.addControl(new mapboxgl.FullscreenControl());
-
+*/
 //======== 
 
 
@@ -95,27 +95,44 @@ return(
                 <div className = {styles.content}> 
                     <div className = {styles.col1}>
                     <img className= {styles.logo} src={logo2} alt="logo" />
-                    <p>Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. The disease causes.</p>
+                    <p>Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.</p>
                     </div>
                         
                     <div className = {styles.col2}> 
                         <div className = {styles.heading}>About Us </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                            Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
-                             Sit amet venenatis urna cursus eget nunc scelerisque. Tincidunt ornare 
-                             massa eget egestas purus viverra. Lectus arcu bibendum at variu</p>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="">About</a></li>
+                            <li><a href="https://news.google.com/covid19/">News Feeds</a></li>
+                        </ul>
                      </div>
                     <div className = {styles.col3}>
-                        <div className = {styles.heading}>Helpful Links </div>
+                        <div className = {styles.heading}>Useful Links </div>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                            Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
-                             Sit amet venenatis urna cursus eget nunc scelerisque. Tincidunt ornare 
-                             massa eget egestas purus viverra. Lectus arcu bibendum at variu</p>
+                        <ul>
+                            <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">WHO Information</a></li>
+                            <li><a href="https://en.wikipedia.org/wiki/Coronavirus_disease_2019">Covid-19 Wikipedia</a></li>
+                            
+                            <li><a href="https://edition.cnn.com/interactive/2020/health/coronavirus-us-maps-and-cases/">CNN News</a></li>
+                            
+                        </ul>
                      </div>
+                     <div className = {styles.col4}>
 
+
+                        <div className = {styles.heading}>Share Latest Stats </div>
+                    <div className = {styles.share}>
+                        
+                        <li> <a href="http://www.facebook.com/sharer.php?u=https://cvd19tracker.com" target="_blank">
+                     <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" /> 
+                     </a>
+                    </li> 
+                        <li><a href="https://twitter.com/share?url=https://cvd19tracker.com&amp;text=Check%20out%20the%20latest%20Covid-19%20Stats&amp;hashtags=covidtracker.app" target="_blank">
+                      <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+                     </a></li> 
+                        
+                     </div>
+                     </div>
                 </div>
            
         </div>
