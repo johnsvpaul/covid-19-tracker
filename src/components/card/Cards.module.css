@@ -1,22 +1,131 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
 
-.container{
+
+}
+
+.con h1 {
+    padding-right: 10px;
+}
+
+.rec h1 {
+    padding-right: 10px;
+}
+
+.det h1 {
+    padding-right: 10px;
+}
+
+h4 {
+    margin: 20px 0;
+}
+
+
+h5 {
+    margin-bottom: 20px;
+}
+
+
+h6 {
+    margin-top: 15px;
+    margin-bottom: 0 !important;
+}
+
+
+
+
+.con {
+    
+    margin: 0 15px;
+
+    padding: 0 15px ;
+    border-top: 10px solid rgba(255, 255, 0, 0.5);
+
+}
+
+
+
+.rec {
+    
+    margin: 0 15px ;
+
+    padding: 0 15px ;
+    border-top: 10px solid rgba(0, 255, 0, 0.5);
+
+}
+
+.det {
+   
+
+    margin: 0 15px ;
+    padding: 0 15px ;
+    border-top: 10px solid rgba(255, 0, 0, 0.5);
+
+}
+
+@media screen and (max-width:768px){
+    
+    .con{
+        padding-bottom: 40px;
+    }
+    .det{
+        padding-bottom: 40px;
+
+    }
+    .rec{        padding-bottom: 40px;
+    }
+    .main{
+        flex-direction: column;
+    }
+    .select{
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 30px;
+        margin-bottom: 30px !important;
+    }
+}
+
+
+
+/* card ui css======================================================= */
+.container {
     margin: 50px 0;
 }
 
-.card{
+.card {
     margin: 0 2% !important;
     font-family: 'Montserrat', sans-serif;
-    
+
 }
 
-.infected{
-    border-bottom: 10px solid rgba(255,255, 0, 0.5);
-}
-.recovered{
-    border-bottom: 10px solid rgba(0,255, 0, 0.5);
-}
-.deaths{
-    border-bottom: 10px solid rgba(255,0, 0, 0.5);
+.infected {
+    border-bottom: 10px solid rgba(255, 255, 0, 0.5);
 }
 
+.recovered {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths {
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.lastupdate{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+
+}
+
+.select{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-bottom: -20px;
+}

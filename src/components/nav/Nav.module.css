@@ -1,0 +1,45 @@
+p{
+    margin: 0;
+}
+.container{
+    
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+@media (min-width: 576px){
+    .container{
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px){
+    .container{
+        max-width: 720px;
+    }
+    
+}
+@media (min-width: 992px){
+    .container{
+        max-width: 960px;
+    }
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1140px;
+    }
+}
+
+
+.logo{
+    
+    width: 280px;
+    padding: 15px;
+}
+
+@media screen and (max-width:768px){
+    .logo{
+        margin: 0 auto;
+        
+    }
+}

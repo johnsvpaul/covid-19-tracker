@@ -1,0 +1,5729 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65,33 ]
+    },
+    "properties": {
+    "updated":1587933011600,
+    "country":"Afghanistan",
+    "countryInfo___id":"4",
+    "countryInfo__iso2":"AF",
+    "countryInfo__iso3":"AFG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/af.png",
+    "cases":1531,
+    "todayCases":68,
+    "deaths":50,
+    "todayDeaths":3,
+    "recovered":207,
+    "active":1274,
+    "critical":7,
+    "casesPerOneMillion":39,
+    "deathsPerOneMillion":1,
+    "tests":8090,
+    "testsPerOneMillion":208,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,41 ]
+    },
+    "properties": {
+    "updated":1587933011617,
+    "country":"Albania",
+    "countryInfo___id":"8",
+    "countryInfo__iso2":"AL",
+    "countryInfo__iso3":"ALB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/al.png",
+    "cases":726,
+    "todayCases":14,
+    "deaths":28,
+    "todayDeaths":1,
+    "recovered":410,
+    "active":288,
+    "critical":4,
+    "casesPerOneMillion":252,
+    "deathsPerOneMillion":10,
+    "tests":7279,
+    "testsPerOneMillion":2529,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3,28 ]
+    },
+    "properties": {
+    "updated":1587933011576,
+    "country":"Algeria",
+    "countryInfo___id":"12",
+    "countryInfo__iso2":"DZ",
+    "countryInfo__iso3":"DZA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/dz.png",
+    "cases":3382,
+    "todayCases":126,
+    "deaths":425,
+    "todayDeaths":6,
+    "recovered":1508,
+    "active":1449,
+    "critical":40,
+    "casesPerOneMillion":77,
+    "deathsPerOneMillion":10,
+    "tests":6500,
+    "testsPerOneMillion":148,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6,42.5 ]
+    },
+    "properties": {
+    "updated":1587933011616,
+    "country":"Andorra",
+    "countryInfo___id":"20",
+    "countryInfo__iso2":"AD",
+    "countryInfo__iso3":"AND",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ad.png",
+    "cases":738,
+    "todayCases":0,
+    "deaths":40,
+    "todayDeaths":0,
+    "recovered":344,
+    "active":354,
+    "critical":17,
+    "casesPerOneMillion":9552,
+    "deathsPerOneMillion":518,
+    "tests":1673,
+    "testsPerOneMillion":21653,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5,-12.5 ]
+    },
+    "properties": {
+    "updated":1587933011694,
+    "country":"Angola",
+    "countryInfo___id":"24",
+    "countryInfo__iso2":"AO",
+    "countryInfo__iso3":"AGO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ao.png",
+    "cases":26,
+    "todayCases":1,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":6,
+    "active":18,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.1667,18.25 ]
+    },
+    "properties": {
+    "updated":1587933011722,
+    "country":"Anguilla",
+    "countryInfo___id":"660",
+    "countryInfo__iso2":"AI",
+    "countryInfo__iso3":"AIA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ai.png",
+    "cases":3,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":1,
+    "active":2,
+    "critical":0,
+    "casesPerOneMillion":200,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.8,17.05 ]
+    },
+    "properties": {
+    "updated":1587933011696,
+    "country":"Antigua and Barbuda",
+    "countryInfo___id":"28",
+    "countryInfo__iso2":"AG",
+    "countryInfo__iso3":"ATG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ag.png",
+    "cases":24,
+    "todayCases":0,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":11,
+    "active":10,
+    "critical":1,
+    "casesPerOneMillion":245,
+    "deathsPerOneMillion":31,
+    "tests":113,
+    "testsPerOneMillion":1154,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64,-34 ]
+    },
+    "properties": {
+    "updated":1587933011571,
+    "country":"Argentina",
+    "countryInfo___id":"32",
+    "countryInfo__iso2":"AR",
+    "countryInfo__iso3":"ARG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ar.png",
+    "cases":3780,
+    "todayCases":0,
+    "deaths":187,
+    "todayDeaths":2,
+    "recovered":1107,
+    "active":2486,
+    "critical":144,
+    "casesPerOneMillion":84,
+    "deathsPerOneMillion":4,
+    "tests":49905,
+    "testsPerOneMillion":1104,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45,40 ]
+    },
+    "properties": {
+    "updated":1587933011593,
+    "country":"Armenia",
+    "countryInfo___id":"51",
+    "countryInfo__iso2":"AM",
+    "countryInfo__iso3":"ARM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/am.png",
+    "cases":1746,
+    "todayCases":69,
+    "deaths":28,
+    "todayDeaths":0,
+    "recovered":833,
+    "active":885,
+    "critical":10,
+    "casesPerOneMillion":589,
+    "deathsPerOneMillion":9,
+    "tests":17931,
+    "testsPerOneMillion":6051,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.9667,12.5 ]
+    },
+    "properties": {
+    "updated":1587933011666,
+    "country":"Aruba",
+    "countryInfo___id":"533",
+    "countryInfo__iso2":"AW",
+    "countryInfo__iso3":"ABW",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/aw.png",
+    "cases":100,
+    "todayCases":0,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":73,
+    "active":25,
+    "critical":4,
+    "casesPerOneMillion":937,
+    "deathsPerOneMillion":19,
+    "tests":1622,
+    "testsPerOneMillion":15192,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,-27 ]
+    },
+    "properties": {
+    "updated":1587933011554,
+    "country":"Australia",
+    "countryInfo___id":"36",
+    "countryInfo__iso2":"AU",
+    "countryInfo__iso3":"AUS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/au.png",
+    "cases":6711,
+    "todayCases":16,
+    "deaths":83,
+    "todayDeaths":3,
+    "recovered":5539,
+    "active":1089,
+    "critical":42,
+    "casesPerOneMillion":263,
+    "deathsPerOneMillion":3,
+    "tests":506449,
+    "testsPerOneMillion":19861,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3333,47.3333 ]
+    },
+    "properties": {
+    "updated":1587933011513,
+    "country":"Austria",
+    "countryInfo___id":"40",
+    "countryInfo__iso2":"AT",
+    "countryInfo__iso3":"AUT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/at.png",
+    "cases":15225,
+    "todayCases":77,
+    "deaths":542,
+    "todayDeaths":6,
+    "recovered":12282,
+    "active":2401,
+    "critical":145,
+    "casesPerOneMillion":1690,
+    "deathsPerOneMillion":60,
+    "tests":227631,
+    "testsPerOneMillion":25274,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5,40.5 ]
+    },
+    "properties": {
+    "updated":1587933011595,
+    "country":"Azerbaijan",
+    "countryInfo___id":"31",
+    "countryInfo__iso2":"AZ",
+    "countryInfo__iso3":"AZE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/az.png",
+    "cases":1645,
+    "todayCases":28,
+    "deaths":21,
+    "todayDeaths":0,
+    "recovered":1139,
+    "active":485,
+    "critical":15,
+    "casesPerOneMillion":162,
+    "deathsPerOneMillion":2,
+    "tests":120479,
+    "testsPerOneMillion":11883,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,24.25 ]
+    },
+    "properties": {
+    "updated":1587933011673,
+    "country":"Bahamas",
+    "countryInfo___id":"44",
+    "countryInfo__iso2":"BS",
+    "countryInfo__iso3":"BHS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bs.png",
+    "cases":80,
+    "todayCases":2,
+    "deaths":11,
+    "todayDeaths":0,
+    "recovered":22,
+    "active":47,
+    "critical":1,
+    "casesPerOneMillion":203,
+    "deathsPerOneMillion":28,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.55,26 ]
+    },
+    "properties": {
+    "updated":1587933011582,
+    "country":"Bahrain",
+    "countryInfo___id":"48",
+    "countryInfo__iso2":"BH",
+    "countryInfo__iso3":"BHR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bh.png",
+    "cases":2647,
+    "todayCases":59,
+    "deaths":8,
+    "todayDeaths":0,
+    "recovered":1189,
+    "active":1450,
+    "critical":2,
+    "casesPerOneMillion":1556,
+    "deathsPerOneMillion":5,
+    "tests":114110,
+    "testsPerOneMillion":67061,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90,24 ]
+    },
+    "properties": {
+    "updated":1587933011559,
+    "country":"Bangladesh",
+    "countryInfo___id":"50",
+    "countryInfo__iso2":"BD",
+    "countryInfo__iso3":"BGD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bd.png",
+    "cases":5416,
+    "todayCases":418,
+    "deaths":145,
+    "todayDeaths":5,
+    "recovered":122,
+    "active":5149,
+    "critical":1,
+    "casesPerOneMillion":33,
+    "deathsPerOneMillion":0,
+    "tests":46589,
+    "testsPerOneMillion":283,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.5333,13.1667 ]
+    },
+    "properties": {
+    "updated":1587933011675,
+    "country":"Barbados",
+    "countryInfo___id":"52",
+    "countryInfo__iso2":"BB",
+    "countryInfo__iso3":"BRB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bb.png",
+    "cases":79,
+    "todayCases":0,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":32,
+    "active":41,
+    "critical":4,
+    "casesPerOneMillion":275,
+    "deathsPerOneMillion":21,
+    "tests":1502,
+    "testsPerOneMillion":5227,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28,53 ]
+    },
+    "properties": {
+    "updated":1587933011533,
+    "country":"Belarus",
+    "countryInfo___id":"112",
+    "countryInfo__iso2":"BY",
+    "countryInfo__iso3":"BLR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/by.png",
+    "cases":10463,
+    "todayCases":873,
+    "deaths":72,
+    "todayDeaths":5,
+    "recovered":1695,
+    "active":8696,
+    "critical":92,
+    "casesPerOneMillion":1107,
+    "deathsPerOneMillion":8,
+    "tests":147525,
+    "testsPerOneMillion":15612,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4,50.8333 ]
+    },
+    "properties": {
+    "updated":1587933011484,
+    "country":"Belgium",
+    "countryInfo___id":"56",
+    "countryInfo__iso2":"BE",
+    "countryInfo__iso3":"BEL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/be.png",
+    "cases":46134,
+    "todayCases":809,
+    "deaths":7094,
+    "todayDeaths":177,
+    "recovered":10785,
+    "active":28255,
+    "critical":891,
+    "casesPerOneMillion":3981,
+    "deathsPerOneMillion":612,
+    "tests":189067,
+    "testsPerOneMillion":16313,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.75,17.25 ]
+    },
+    "properties": {
+    "updated":1587933011700,
+    "country":"Belize",
+    "countryInfo___id":"84",
+    "countryInfo__iso2":"BZ",
+    "countryInfo__iso3":"BLZ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bz.png",
+    "cases":18,
+    "todayCases":0,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":5,
+    "active":11,
+    "critical":1,
+    "casesPerOneMillion":45,
+    "deathsPerOneMillion":5,
+    "tests":816,
+    "testsPerOneMillion":2052,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.25,9.5 ]
+    },
+    "properties": {
+    "updated":1587933011683,
+    "country":"Benin",
+    "countryInfo___id":"204",
+    "countryInfo__iso2":"BJ",
+    "countryInfo__iso3":"BEN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bj.png",
+    "cases":64,
+    "todayCases":10,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":33,
+    "active":30,
+    "critical":0,
+    "casesPerOneMillion":5,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75,32.3333 ]
+    },
+    "properties": {
+    "updated":1587933011665,
+    "country":"Bermuda",
+    "countryInfo___id":"60",
+    "countryInfo__iso2":"BM",
+    "countryInfo__iso3":"BMU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bm.png",
+    "cases":109,
+    "todayCases":0,
+    "deaths":5,
+    "todayDeaths":0,
+    "recovered":39,
+    "active":65,
+    "critical":10,
+    "casesPerOneMillion":1750,
+    "deathsPerOneMillion":80,
+    "tests":1173,
+    "testsPerOneMillion":18835,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.5,27.5 ]
+    },
+    "properties": {
+    "updated":1587933011717,
+    "country":"Bhutan",
+    "countryInfo___id":"64",
+    "countryInfo__iso2":"BT",
+    "countryInfo__iso3":"BTN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bt.png",
+    "cases":7,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":4,
+    "active":3,
+    "critical":0,
+    "casesPerOneMillion":9,
+    "deathsPerOneMillion":0,
+    "tests":9791,
+    "testsPerOneMillion":12689,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65,-17 ]
+    },
+    "properties": {
+    "updated":1587933011614,
+    "country":"Bolivia",
+    "countryInfo___id":"68",
+    "countryInfo__iso2":"BO",
+    "countryInfo__iso3":"BOL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bo.png",
+    "cases":866,
+    "todayCases":59,
+    "deaths":46,
+    "todayDeaths":2,
+    "recovered":74,
+    "active":746,
+    "critical":3,
+    "casesPerOneMillion":74,
+    "deathsPerOneMillion":4,
+    "tests":4995,
+    "testsPerOneMillion":428,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18,44 ]
+    },
+    "properties": {
+    "updated":1587933011601,
+    "country":"Bosnia",
+    "countryInfo___id":"70",
+    "countryInfo__iso2":"BA",
+    "countryInfo__iso3":"BIH",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ba.png",
+    "cases":1516,
+    "todayCases":30,
+    "deaths":59,
+    "todayDeaths":2,
+    "recovered":624,
+    "active":833,
+    "critical":4,
+    "casesPerOneMillion":462,
+    "deathsPerOneMillion":18,
+    "tests":25830,
+    "testsPerOneMillion":7873,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,-22 ]
+    },
+    "properties": {
+    "updated":1587933011698,
+    "country":"Botswana",
+    "countryInfo___id":"72",
+    "countryInfo__iso2":"BW",
+    "countryInfo__iso3":"BWA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bw.png",
+    "cases":22,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":21,
+    "critical":0,
+    "casesPerOneMillion":9,
+    "deathsPerOneMillion":0,
+    "tests":5023,
+    "testsPerOneMillion":2136,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55,-10 ]
+    },
+    "properties": {
+    "updated":1587933011480,
+    "country":"Brazil",
+    "countryInfo___id":"76",
+    "countryInfo__iso2":"BR",
+    "countryInfo__iso3":"BRA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/br.png",
+    "cases":61888,
+    "todayCases":2692,
+    "deaths":4205,
+    "todayDeaths":160,
+    "recovered":29160,
+    "active":28523,
+    "critical":8318,
+    "casesPerOneMillion":291,
+    "deathsPerOneMillion":20,
+    "tests":291922,
+    "testsPerOneMillion":1373,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5,18.5 ]
+    },
+    "properties": {
+    "updated":1587933011717,
+    "country":"British Virgin Islands",
+    "countryInfo___id":"92",
+    "countryInfo__iso2":"VG",
+    "countryInfo__iso3":"VGB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/vg.png",
+    "cases":6,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":3,
+    "active":2,
+    "critical":0,
+    "casesPerOneMillion":198,
+    "deathsPerOneMillion":33,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.6667,4.5 ]
+    },
+    "properties": {
+    "updated":1587933011656,
+    "country":"Brunei",
+    "countryInfo___id":"96",
+    "countryInfo__iso2":"BN",
+    "countryInfo__iso3":"BRN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bn.png",
+    "cases":138,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":123,
+    "active":14,
+    "critical":2,
+    "casesPerOneMillion":315,
+    "deathsPerOneMillion":2,
+    "tests":12981,
+    "testsPerOneMillion":29672,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,43 ]
+    },
+    "properties": {
+    "updated":1587933011608,
+    "country":"Bulgaria",
+    "countryInfo___id":"100",
+    "countryInfo__iso2":"BG",
+    "countryInfo__iso3":"BGR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bg.png",
+    "cases":1300,
+    "todayCases":53,
+    "deaths":56,
+    "todayDeaths":1,
+    "recovered":205,
+    "active":1039,
+    "critical":41,
+    "casesPerOneMillion":187,
+    "deathsPerOneMillion":8,
+    "tests":27000,
+    "testsPerOneMillion":3886,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,13 ]
+    },
+    "properties": {
+    "updated":1587933011624,
+    "country":"Burkina Faso",
+    "countryInfo___id":"854",
+    "countryInfo__iso2":"BF",
+    "countryInfo__iso3":"BFA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bf.png",
+    "cases":632,
+    "todayCases":3,
+    "deaths":42,
+    "todayDeaths":1,
+    "recovered":453,
+    "active":137,
+    "critical":0,
+    "casesPerOneMillion":30,
+    "deathsPerOneMillion":2,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-3.5 ]
+    },
+    "properties": {
+    "updated":1587933011709,
+    "country":"Burundi",
+    "countryInfo___id":"108",
+    "countryInfo__iso2":"BI",
+    "countryInfo__iso3":"BDI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bi.png",
+    "cases":11,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":4,
+    "active":6,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":284,
+    "testsPerOneMillion":24,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24,16 ]
+    },
+    "properties": {
+    "updated":1587933011665,
+    "country":"Cabo Verde",
+    "countryInfo___id":"132",
+    "countryInfo__iso2":"CV",
+    "countryInfo__iso3":"CPV",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cv.png",
+    "cases":106,
+    "todayCases":16,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":1,
+    "active":104,
+    "critical":0,
+    "casesPerOneMillion":191,
+    "deathsPerOneMillion":2,
+    "tests":791,
+    "testsPerOneMillion":1423,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,13 ]
+    },
+    "properties": {
+    "updated":1587933011661,
+    "country":"Cambodia",
+    "countryInfo___id":"116",
+    "countryInfo__iso2":"KH",
+    "countryInfo__iso3":"KHM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kh.png",
+    "cases":122,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":117,
+    "active":5,
+    "critical":1,
+    "casesPerOneMillion":7,
+    "deathsPerOneMillion":0,
+    "tests":5768,
+    "testsPerOneMillion":345,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12,6 ]
+    },
+    "properties": {
+    "updated":1587933011597,
+    "country":"Cameroon",
+    "countryInfo___id":"120",
+    "countryInfo__iso2":"CM",
+    "countryInfo__iso3":"CMR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cm.png",
+    "cases":1621,
+    "todayCases":103,
+    "deaths":56,
+    "todayDeaths":3,
+    "recovered":786,
+    "active":779,
+    "critical":12,
+    "casesPerOneMillion":61,
+    "deathsPerOneMillion":2,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95,60 ]
+    },
+    "properties": {
+    "updated":1587933011482,
+    "country":"Canada",
+    "countryInfo___id":"124",
+    "countryInfo__iso2":"CA",
+    "countryInfo__iso3":"CAN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ca.png",
+    "cases":46644,
+    "todayCases":1290,
+    "deaths":2560,
+    "todayDeaths":95,
+    "recovered":17239,
+    "active":26845,
+    "critical":557,
+    "casesPerOneMillion":1236,
+    "deathsPerOneMillion":68,
+    "tests":684271,
+    "testsPerOneMillion":18130,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.26,12.2 ]
+    },
+    "properties": {
+    "updated":1587933011721,
+    "country":"Caribbean Netherlands",
+    "countryInfo___id":"535",
+    "countryInfo__iso2":"BQ",
+    "countryInfo__iso3":"BES",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bq.png",
+    "cases":5,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":5,
+    "critical":0,
+    "casesPerOneMillion":191,
+    "deathsPerOneMillion":0,
+    "tests":110,
+    "testsPerOneMillion":4195,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5,19.5 ]
+    },
+    "properties": {
+    "updated":1587933011681,
+    "country":"Cayman Islands",
+    "countryInfo___id":"136",
+    "countryInfo__iso2":"KY",
+    "countryInfo__iso3":"CYM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ky.png",
+    "cases":70,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":8,
+    "active":61,
+    "critical":3,
+    "casesPerOneMillion":1065,
+    "deathsPerOneMillion":15,
+    "tests":940,
+    "testsPerOneMillion":14303,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21,7 ]
+    },
+    "properties": {
+    "updated":1587933011699,
+    "country":"Central African Republic",
+    "countryInfo___id":"140",
+    "countryInfo__iso2":"CF",
+    "countryInfo__iso3":"CAF",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cf.png",
+    "cases":19,
+    "todayCases":3,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":10,
+    "active":9,
+    "critical":0,
+    "casesPerOneMillion":4,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19,15 ]
+    },
+    "properties": {
+    "updated":1587933011688,
+    "country":"Chad",
+    "countryInfo___id":"148",
+    "countryInfo__iso2":"TD",
+    "countryInfo__iso3":"TCD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/td.png",
+    "cases":46,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":15,
+    "active":31,
+    "critical":0,
+    "casesPerOneMillion":3,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13,49.21 ]
+    },
+    "properties": {
+    "updated":1587933011627,
+    "country":"Channel Islands",
+    "countryInfo___id":"832",
+    "countryInfo__iso2":"JE",
+    "countryInfo__iso3":"JEY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/je.png",
+    "cases":525,
+    "todayCases":0,
+    "deaths":35,
+    "todayDeaths":0,
+    "recovered":332,
+    "active":158,
+    "critical":0,
+    "casesPerOneMillion":3020,
+    "deathsPerOneMillion":201,
+    "tests":5342,
+    "testsPerOneMillion":30725,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71,-30 ]
+    },
+    "properties": {
+    "updated":1587933011519,
+    "country":"Chile",
+    "countryInfo___id":"152",
+    "countryInfo__iso2":"CL",
+    "countryInfo__iso3":"CHL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cl.png",
+    "cases":13331,
+    "todayCases":473,
+    "deaths":189,
+    "todayDeaths":8,
+    "recovered":7024,
+    "active":6118,
+    "critical":418,
+    "casesPerOneMillion":697,
+    "deathsPerOneMillion":10,
+    "tests":155975,
+    "testsPerOneMillion":8159,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,35 ]
+    },
+    "properties": {
+    "updated":1587933011724,
+    "country":"China",
+    "countryInfo___id":"156",
+    "countryInfo__iso2":"CN",
+    "countryInfo__iso3":"CHN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cn.png",
+    "cases":82827,
+    "todayCases":11,
+    "deaths":4632,
+    "todayDeaths":0,
+    "recovered":77394,
+    "active":801,
+    "critical":51,
+    "casesPerOneMillion":58,
+    "deathsPerOneMillion":3,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72,4 ]
+    },
+    "properties": {
+    "updated":1587933011560,
+    "country":"Colombia",
+    "countryInfo___id":"170",
+    "countryInfo__iso2":"CO",
+    "countryInfo__iso3":"COL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/co.png",
+    "cases":5142,
+    "todayCases":0,
+    "deaths":233,
+    "todayDeaths":0,
+    "recovered":1067,
+    "active":3842,
+    "critical":117,
+    "casesPerOneMillion":101,
+    "deathsPerOneMillion":5,
+    "tests":78078,
+    "testsPerOneMillion":1534,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,-1 ]
+    },
+    "properties": {
+    "updated":1587933011650,
+    "country":"Congo",
+    "countryInfo___id":"178",
+    "countryInfo__iso2":"CG",
+    "countryInfo__iso3":"COG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cg.png",
+    "cases":200,
+    "todayCases":0,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":19,
+    "active":175,
+    "critical":0,
+    "casesPerOneMillion":36,
+    "deathsPerOneMillion":1,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84,10 ]
+    },
+    "properties": {
+    "updated":1587933011621,
+    "country":"Costa Rica",
+    "countryInfo___id":"188",
+    "countryInfo__iso2":"CR",
+    "countryInfo__iso3":"CRI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cr.png",
+    "cases":695,
+    "todayCases":2,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":264,
+    "active":425,
+    "critical":8,
+    "casesPerOneMillion":136,
+    "deathsPerOneMillion":1,
+    "tests":12467,
+    "testsPerOneMillion":2447,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5,45.1667 ]
+    },
+    "properties": {
+    "updated":1587933011586,
+    "country":"Croatia",
+    "countryInfo___id":"191",
+    "countryInfo__iso2":"HR",
+    "countryInfo__iso3":"HRV",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/hr.png",
+    "cases":2030,
+    "todayCases":14,
+    "deaths":55,
+    "todayDeaths":1,
+    "recovered":1103,
+    "active":872,
+    "critical":23,
+    "casesPerOneMillion":494,
+    "deathsPerOneMillion":13,
+    "tests":31622,
+    "testsPerOneMillion":7703,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80,21.5 ]
+    },
+    "properties": {
+    "updated":1587933011607,
+    "country":"Cuba",
+    "countryInfo___id":"192",
+    "countryInfo__iso2":"CU",
+    "countryInfo__iso3":"CUB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cu.png",
+    "cases":1369,
+    "todayCases":32,
+    "deaths":54,
+    "todayDeaths":3,
+    "recovered":501,
+    "active":814,
+    "critical":11,
+    "casesPerOneMillion":121,
+    "deathsPerOneMillion":5,
+    "tests":39828,
+    "testsPerOneMillion":3516,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.97,12.15 ]
+    },
+    "properties": {
+    "updated":1587933011702,
+    "country":"Curaçao",
+    "countryInfo___id":"531",
+    "countryInfo__iso2":"CW",
+    "countryInfo__iso3":"CUW",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cw.png",
+    "cases":16,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":11,
+    "active":4,
+    "critical":0,
+    "casesPerOneMillion":98,
+    "deathsPerOneMillion":6,
+    "tests":304,
+    "testsPerOneMillion":1853,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33,35 ]
+    },
+    "properties": {
+    "updated":1587933011615,
+    "country":"Cyprus",
+    "countryInfo___id":"196",
+    "countryInfo__iso2":"CY",
+    "countryInfo__iso3":"CYP",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cy.png",
+    "cases":817,
+    "todayCases":7,
+    "deaths":14,
+    "todayDeaths":0,
+    "recovered":148,
+    "active":655,
+    "critical":15,
+    "casesPerOneMillion":677,
+    "deathsPerOneMillion":12,
+    "tests":43542,
+    "testsPerOneMillion":36064,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5,49.75 ]
+    },
+    "properties": {
+    "updated":1587933011553,
+    "country":"Czechia",
+    "countryInfo___id":"203",
+    "countryInfo__iso2":"CZ",
+    "countryInfo__iso3":"CZE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cz.png",
+    "cases":7387,
+    "todayCases":35,
+    "deaths":220,
+    "todayDeaths":2,
+    "recovered":2545,
+    "active":4622,
+    "critical":79,
+    "casesPerOneMillion":690,
+    "deathsPerOneMillion":21,
+    "tests":215116,
+    "testsPerOneMillion":20087,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,8 ]
+    },
+    "properties": {
+    "updated":1587933011609,
+    "country":"Côte d'Ivoire",
+    "countryInfo___id":"384",
+    "countryInfo__iso2":"CI",
+    "countryInfo__iso3":"CIV",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ci.png",
+    "cases":1111,
+    "todayCases":34,
+    "deaths":14,
+    "todayDeaths":0,
+    "recovered":449,
+    "active":648,
+    "critical":0,
+    "casesPerOneMillion":42,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,0 ]
+    },
+    "properties": {
+    "updated":1587933011635,
+    "country":"DRC",
+    "countryInfo___id":"180",
+    "countryInfo__iso2":"CD",
+    "countryInfo__iso3":"COD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/cd.png",
+    "cases":442,
+    "todayCases":26,
+    "deaths":28,
+    "todayDeaths":0,
+    "recovered":50,
+    "active":364,
+    "critical":0,
+    "casesPerOneMillion":5,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,56 ]
+    },
+    "properties": {
+    "updated":1587933011543,
+    "country":"Denmark",
+    "countryInfo___id":"208",
+    "countryInfo__iso2":"DK",
+    "countryInfo__iso3":"DNK",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/dk.png",
+    "cases":8575,
+    "todayCases":130,
+    "deaths":422,
+    "todayDeaths":4,
+    "recovered":5805,
+    "active":2348,
+    "critical":70,
+    "casesPerOneMillion":1480,
+    "deathsPerOneMillion":73,
+    "tests":146915,
+    "testsPerOneMillion":25364,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "updated":1587933011618,
+    "country":"Diamond Princess",
+    "countryInfo___id":"null",
+    "countryInfo__iso2":"null",
+    "countryInfo__iso3":"null",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/unknown.png",
+    "cases":712,
+    "todayCases":0,
+    "deaths":13,
+    "todayDeaths":0,
+    "recovered":645,
+    "active":54,
+    "critical":4,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43,11.5 ]
+    },
+    "properties": {
+    "updated":1587933011611,
+    "country":"Djibouti",
+    "countryInfo___id":"262",
+    "countryInfo__iso2":"DJ",
+    "countryInfo__iso3":"DJI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/dj.png",
+    "cases":1023,
+    "todayCases":15,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":411,
+    "active":610,
+    "critical":0,
+    "casesPerOneMillion":1035,
+    "deathsPerOneMillion":2,
+    "tests":11741,
+    "testsPerOneMillion":11884,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.3333,15.4167 ]
+    },
+    "properties": {
+    "updated":1587933011703,
+    "country":"Dominica",
+    "countryInfo___id":"212",
+    "countryInfo__iso2":"DM",
+    "countryInfo__iso3":"DMA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/dm.png",
+    "cases":16,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":13,
+    "active":3,
+    "critical":0,
+    "casesPerOneMillion":222,
+    "deathsPerOneMillion":0,
+    "tests":383,
+    "testsPerOneMillion":5320,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6667,19 ]
+    },
+    "properties": {
+    "updated":1587933011555,
+    "country":"Dominican Republic",
+    "countryInfo___id":"214",
+    "countryInfo__iso2":"DO",
+    "countryInfo__iso3":"DOM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/do.png",
+    "cases":6135,
+    "todayCases":209,
+    "deaths":278,
+    "todayDeaths":5,
+    "recovered":910,
+    "active":4947,
+    "critical":144,
+    "casesPerOneMillion":566,
+    "deathsPerOneMillion":26,
+    "tests":22498,
+    "testsPerOneMillion":2074,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5,-2 ]
+    },
+    "properties": {
+    "updated":1587933011498,
+    "country":"Ecuador",
+    "countryInfo___id":"218",
+    "countryInfo__iso2":"EC",
+    "countryInfo__iso3":"ECU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ec.png",
+    "cases":22719,
+    "todayCases":0,
+    "deaths":576,
+    "todayDeaths":0,
+    "recovered":1366,
+    "active":20777,
+    "critical":127,
+    "casesPerOneMillion":1288,
+    "deathsPerOneMillion":33,
+    "tests":56513,
+    "testsPerOneMillion":3203,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,27 ]
+    },
+    "properties": {
+    "updated":1587933011567,
+    "country":"Egypt",
+    "countryInfo___id":"818",
+    "countryInfo__iso2":"EG",
+    "countryInfo__iso3":"EGY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/eg.png",
+    "cases":4534,
+    "todayCases":215,
+    "deaths":317,
+    "todayDeaths":10,
+    "recovered":1176,
+    "active":3041,
+    "critical":0,
+    "casesPerOneMillion":44,
+    "deathsPerOneMillion":3,
+    "tests":90000,
+    "testsPerOneMillion":879,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.9167,13.8333 ]
+    },
+    "properties": {
+    "updated":1587933011646,
+    "country":"El Salvador",
+    "countryInfo___id":"222",
+    "countryInfo__iso2":"SV",
+    "countryInfo__iso3":"SLV",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sv.png",
+    "cases":298,
+    "todayCases":24,
+    "deaths":8,
+    "todayDeaths":0,
+    "recovered":83,
+    "active":207,
+    "critical":4,
+    "casesPerOneMillion":46,
+    "deathsPerOneMillion":1,
+    "tests":18686,
+    "testsPerOneMillion":2881,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,2 ]
+    },
+    "properties": {
+    "updated":1587933011647,
+    "country":"Equatorial Guinea",
+    "countryInfo___id":"226",
+    "countryInfo__iso2":"GQ",
+    "countryInfo__iso3":"GNQ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gq.png",
+    "cases":258,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":8,
+    "active":249,
+    "critical":0,
+    "casesPerOneMillion":184,
+    "deathsPerOneMillion":0,
+    "tests":854,
+    "testsPerOneMillion":609,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39,15 ]
+    },
+    "properties": {
+    "updated":1587933011691,
+    "country":"Eritrea",
+    "countryInfo___id":"232",
+    "countryInfo__iso2":"ER",
+    "countryInfo__iso3":"ERI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/er.png",
+    "cases":39,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":13,
+    "active":26,
+    "critical":0,
+    "casesPerOneMillion":11,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26,59 ]
+    },
+    "properties": {
+    "updated":1587933011596,
+    "country":"Estonia",
+    "countryInfo___id":"233",
+    "countryInfo__iso2":"EE",
+    "countryInfo__iso3":"EST",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ee.png",
+    "cases":1643,
+    "todayCases":8,
+    "deaths":49,
+    "todayDeaths":3,
+    "recovered":233,
+    "active":1361,
+    "critical":6,
+    "casesPerOneMillion":1239,
+    "deathsPerOneMillion":37,
+    "tests":47933,
+    "testsPerOneMillion":36134,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,8 ]
+    },
+    "properties": {
+    "updated":1587933011660,
+    "country":"Ethiopia",
+    "countryInfo___id":"231",
+    "countryInfo__iso2":"ET",
+    "countryInfo__iso3":"ETH",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/et.png",
+    "cases":123,
+    "todayCases":1,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":41,
+    "active":79,
+    "critical":0,
+    "casesPerOneMillion":1,
+    "deathsPerOneMillion":0,
+    "tests":13645,
+    "testsPerOneMillion":119,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59,-51.75 ]
+    },
+    "properties": {
+    "updated":1587933011709,
+    "country":"Falkland Islands (Malvinas)",
+    "countryInfo___id":"238",
+    "countryInfo__iso2":"FK",
+    "countryInfo__iso3":"FLK",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/fk.png",
+    "cases":13,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":11,
+    "active":2,
+    "critical":0,
+    "casesPerOneMillion":3736,
+    "deathsPerOneMillion":0,
+    "tests":353,
+    "testsPerOneMillion":101437,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7,62 ]
+    },
+    "properties": {
+    "updated":1587933011652,
+    "country":"Faroe Islands",
+    "countryInfo___id":"234",
+    "countryInfo__iso2":"FO",
+    "countryInfo__iso3":"FRO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/fo.png",
+    "cases":187,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":178,
+    "active":9,
+    "critical":0,
+    "casesPerOneMillion":3827,
+    "deathsPerOneMillion":0,
+    "tests":6588,
+    "testsPerOneMillion":134826,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175,-18 ]
+    },
+    "properties": {
+    "updated":1587933011700,
+    "country":"Fiji",
+    "countryInfo___id":"242",
+    "countryInfo__iso2":"FJ",
+    "countryInfo__iso3":"FJI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/fj.png",
+    "cases":18,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":10,
+    "active":8,
+    "critical":0,
+    "casesPerOneMillion":20,
+    "deathsPerOneMillion":0,
+    "tests":900,
+    "testsPerOneMillion":1004,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26,64 ]
+    },
+    "properties": {
+    "updated":1587933011561,
+    "country":"Finland",
+    "countryInfo___id":"246",
+    "countryInfo__iso2":"FI",
+    "countryInfo__iso3":"FIN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/fi.png",
+    "cases":4576,
+    "todayCases":101,
+    "deaths":190,
+    "todayDeaths":4,
+    "recovered":2500,
+    "active":1886,
+    "critical":62,
+    "casesPerOneMillion":826,
+    "deathsPerOneMillion":34,
+    "tests":80300,
+    "testsPerOneMillion":14493,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2,46 ]
+    },
+    "properties": {
+    "updated":1587933011471,
+    "country":"France",
+    "countryInfo___id":"250",
+    "countryInfo__iso2":"FR",
+    "countryInfo__iso3":"FRA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/fr.png",
+    "cases":162100,
+    "todayCases":612,
+    "deaths":22856,
+    "todayDeaths":242,
+    "recovered":44903,
+    "active":94341,
+    "critical":4682,
+    "casesPerOneMillion":2483,
+    "deathsPerOneMillion":350,
+    "tests":463662,
+    "testsPerOneMillion":7103,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53,4 ]
+    },
+    "properties": {
+    "updated":1587933011664,
+    "country":"French Guiana",
+    "countryInfo___id":"254",
+    "countryInfo__iso2":"GF",
+    "countryInfo__iso3":"GUF",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gf.png",
+    "cases":111,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":87,
+    "active":23,
+    "critical":0,
+    "casesPerOneMillion":372,
+    "deathsPerOneMillion":3,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -140,-15 ]
+    },
+    "properties": {
+    "updated":1587933011686,
+    "country":"French Polynesia",
+    "countryInfo___id":"258",
+    "countryInfo__iso2":"PF",
+    "countryInfo__iso3":"PYF",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pf.png",
+    "cases":57,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":41,
+    "active":16,
+    "critical":1,
+    "casesPerOneMillion":203,
+    "deathsPerOneMillion":0,
+    "tests":2069,
+    "testsPerOneMillion":7365,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.75,-1 ]
+    },
+    "properties": {
+    "updated":1587933011652,
+    "country":"Gabon",
+    "countryInfo___id":"266",
+    "countryInfo__iso2":"GA",
+    "countryInfo__iso3":"GAB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ga.png",
+    "cases":176,
+    "todayCases":0,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":30,
+    "active":143,
+    "critical":1,
+    "casesPerOneMillion":79,
+    "deathsPerOneMillion":1,
+    "tests":572,
+    "testsPerOneMillion":257,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.5667,13.4667 ]
+    },
+    "properties": {
+    "updated":1587933011713,
+    "country":"Gambia",
+    "countryInfo___id":"270",
+    "countryInfo__iso2":"GM",
+    "countryInfo__iso3":"GMB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gm.png",
+    "cases":10,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":8,
+    "active":1,
+    "critical":0,
+    "casesPerOneMillion":4,
+    "deathsPerOneMillion":0,
+    "tests":401,
+    "testsPerOneMillion":166,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.5,42 ]
+    },
+    "properties": {
+    "updated":1587933011631,
+    "country":"Georgia",
+    "countryInfo___id":"268",
+    "countryInfo__iso2":"GE",
+    "countryInfo__iso3":"GEO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ge.png",
+    "cases":485,
+    "todayCases":29,
+    "deaths":6,
+    "todayDeaths":1,
+    "recovered":149,
+    "active":330,
+    "critical":6,
+    "casesPerOneMillion":122,
+    "deathsPerOneMillion":2,
+    "tests":9699,
+    "testsPerOneMillion":2431,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,51 ]
+    },
+    "properties": {
+    "updated":1587933011472,
+    "country":"Germany",
+    "countryInfo___id":"276",
+    "countryInfo__iso2":"DE",
+    "countryInfo__iso3":"DEU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/de.png",
+    "cases":157177,
+    "todayCases":664,
+    "deaths":5913,
+    "todayDeaths":36,
+    "recovered":112000,
+    "active":39264,
+    "critical":2570,
+    "casesPerOneMillion":1876,
+    "deathsPerOneMillion":71,
+    "tests":2072669,
+    "testsPerOneMillion":24738,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,8 ]
+    },
+    "properties": {
+    "updated":1587933011598,
+    "country":"Ghana",
+    "countryInfo___id":"288",
+    "countryInfo__iso2":"GH",
+    "countryInfo__iso3":"GHA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gh.png",
+    "cases":1550,
+    "todayCases":271,
+    "deaths":11,
+    "todayDeaths":1,
+    "recovered":155,
+    "active":1384,
+    "critical":4,
+    "casesPerOneMillion":50,
+    "deathsPerOneMillion":0,
+    "tests":100622,
+    "testsPerOneMillion":3238,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3667,36.1833 ]
+    },
+    "properties": {
+    "updated":1587933011657,
+    "country":"Gibraltar",
+    "countryInfo___id":"292",
+    "countryInfo__iso2":"GI",
+    "countryInfo__iso3":"GIB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gi.png",
+    "cases":136,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":131,
+    "active":5,
+    "critical":0,
+    "casesPerOneMillion":4037,
+    "deathsPerOneMillion":0,
+    "tests":2174,
+    "testsPerOneMillion":64528,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22,39 ]
+    },
+    "properties": {
+    "updated":1587933011583,
+    "country":"Greece",
+    "countryInfo___id":"300",
+    "countryInfo__iso2":"GR",
+    "countryInfo__iso3":"GRC",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gr.png",
+    "cases":2517,
+    "todayCases":11,
+    "deaths":134,
+    "todayDeaths":4,
+    "recovered":577,
+    "active":1806,
+    "critical":46,
+    "casesPerOneMillion":241,
+    "deathsPerOneMillion":13,
+    "tests":64608,
+    "testsPerOneMillion":6199,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -40,72 ]
+    },
+    "properties": {
+    "updated":1587933011711,
+    "country":"Greenland",
+    "countryInfo___id":"304",
+    "countryInfo__iso2":"GL",
+    "countryInfo__iso3":"GRL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gl.png",
+    "cases":11,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":11,
+    "active":0,
+    "critical":0,
+    "casesPerOneMillion":194,
+    "deathsPerOneMillion":0,
+    "tests":1200,
+    "testsPerOneMillion":21138,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.6667,12.1167 ]
+    },
+    "properties": {
+    "updated":1587933011701,
+    "country":"Grenada",
+    "countryInfo___id":"308",
+    "countryInfo__iso2":"GD",
+    "countryInfo__iso3":"GRD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gd.png",
+    "cases":18,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":7,
+    "active":11,
+    "critical":4,
+    "casesPerOneMillion":160,
+    "deathsPerOneMillion":0,
+    "tests":175,
+    "testsPerOneMillion":1555,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.5833,16.25 ]
+    },
+    "properties": {
+    "updated":1587933011655,
+    "country":"Guadeloupe",
+    "countryInfo___id":"312",
+    "countryInfo__iso2":"GP",
+    "countryInfo__iso3":"GLP",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gp.png",
+    "cases":149,
+    "todayCases":0,
+    "deaths":12,
+    "todayDeaths":0,
+    "recovered":82,
+    "active":55,
+    "critical":11,
+    "casesPerOneMillion":372,
+    "deathsPerOneMillion":30,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.25,15.5 ]
+    },
+    "properties": {
+    "updated":1587933011632,
+    "country":"Guatemala",
+    "countryInfo___id":"320",
+    "countryInfo__iso2":"GT",
+    "countryInfo__iso3":"GTM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gt.png",
+    "cases":473,
+    "todayCases":43,
+    "deaths":13,
+    "todayDeaths":2,
+    "recovered":45,
+    "active":415,
+    "critical":5,
+    "casesPerOneMillion":26,
+    "deathsPerOneMillion":0,
+    "tests":7200,
+    "testsPerOneMillion":402,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10,11 ]
+    },
+    "properties": {
+    "updated":1587933011612,
+    "country":"Guinea",
+    "countryInfo___id":"324",
+    "countryInfo__iso2":"GN",
+    "countryInfo__iso3":"GIN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gn.png",
+    "cases":996,
+    "todayCases":0,
+    "deaths":7,
+    "todayDeaths":0,
+    "recovered":208,
+    "active":781,
+    "critical":0,
+    "casesPerOneMillion":76,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15,12 ]
+    },
+    "properties": {
+    "updated":1587933011687,
+    "country":"Guinea-Bissau",
+    "countryInfo___id":"624",
+    "countryInfo__iso2":"GW",
+    "countryInfo__iso3":"GNB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gw.png",
+    "cases":53,
+    "todayCases":1,
+    "deaths":1,
+    "todayDeaths":1,
+    "recovered":3,
+    "active":49,
+    "critical":0,
+    "casesPerOneMillion":27,
+    "deathsPerOneMillion":0,
+    "tests":1500,
+    "testsPerOneMillion":762,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59,5 ]
+    },
+    "properties": {
+    "updated":1587933011679,
+    "country":"Guyana",
+    "countryInfo___id":"328",
+    "countryInfo__iso2":"GY",
+    "countryInfo__iso3":"GUY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gy.png",
+    "cases":74,
+    "todayCases":1,
+    "deaths":8,
+    "todayDeaths":1,
+    "recovered":12,
+    "active":54,
+    "critical":5,
+    "casesPerOneMillion":94,
+    "deathsPerOneMillion":10,
+    "tests":442,
+    "testsPerOneMillion":562,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4167,19 ]
+    },
+    "properties": {
+    "updated":1587933011680,
+    "country":"Haiti",
+    "countryInfo___id":"332",
+    "countryInfo__iso2":"HT",
+    "countryInfo__iso3":"HTI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ht.png",
+    "cases":72,
+    "todayCases":0,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":6,
+    "active":60,
+    "critical":0,
+    "casesPerOneMillion":6,
+    "deathsPerOneMillion":0,
+    "tests":719,
+    "testsPerOneMillion":63,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,41.9 ]
+    },
+    "properties": {
+    "updated":1587933011714,
+    "country":"Holy See (Vatican City State)",
+    "countryInfo___id":"336",
+    "countryInfo__iso2":"VA",
+    "countryInfo__iso3":"VAT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/va.png",
+    "cases":9,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":2,
+    "active":7,
+    "critical":0,
+    "casesPerOneMillion":11236,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5,15 ]
+    },
+    "properties": {
+    "updated":1587933011625,
+    "country":"Honduras",
+    "countryInfo___id":"340",
+    "countryInfo__iso2":"HN",
+    "countryInfo__iso3":"HND",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/hn.png",
+    "cases":627,
+    "todayCases":36,
+    "deaths":59,
+    "todayDeaths":4,
+    "recovered":65,
+    "active":503,
+    "critical":10,
+    "casesPerOneMillion":63,
+    "deathsPerOneMillion":6,
+    "tests":3457,
+    "testsPerOneMillion":349,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1667,22.25 ]
+    },
+    "properties": {
+    "updated":1587933011610,
+    "country":"Hong Kong",
+    "countryInfo___id":"344",
+    "countryInfo__iso2":"HK",
+    "countryInfo__iso3":"HKG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/hk.png",
+    "cases":1038,
+    "todayCases":0,
+    "deaths":4,
+    "todayDeaths":0,
+    "recovered":753,
+    "active":281,
+    "critical":4,
+    "casesPerOneMillion":138,
+    "deathsPerOneMillion":0,
+    "tests":145640,
+    "testsPerOneMillion":19426,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,47 ]
+    },
+    "properties": {
+    "updated":1587933011584,
+    "country":"Hungary",
+    "countryInfo___id":"348",
+    "countryInfo__iso2":"HU",
+    "countryInfo__iso3":"HUN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/hu.png",
+    "cases":2500,
+    "todayCases":57,
+    "deaths":272,
+    "todayDeaths":10,
+    "recovered":485,
+    "active":1743,
+    "critical":61,
+    "casesPerOneMillion":259,
+    "deathsPerOneMillion":28,
+    "tests":63505,
+    "testsPerOneMillion":6574,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18,65 ]
+    },
+    "properties": {
+    "updated":1587933011592,
+    "country":"Iceland",
+    "countryInfo___id":"352",
+    "countryInfo__iso2":"IS",
+    "countryInfo__iso3":"ISL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/is.png",
+    "cases":1792,
+    "todayCases":2,
+    "deaths":10,
+    "todayDeaths":0,
+    "recovered":1608,
+    "active":174,
+    "critical":3,
+    "casesPerOneMillion":5251,
+    "deathsPerOneMillion":29,
+    "tests":46352,
+    "testsPerOneMillion":135833,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77,20 ]
+    },
+    "properties": {
+    "updated":1587933011491,
+    "country":"India",
+    "countryInfo___id":"356",
+    "countryInfo__iso2":"IN",
+    "countryInfo__iso3":"IND",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/in.png",
+    "cases":27890,
+    "todayCases":1607,
+    "deaths":882,
+    "todayDeaths":57,
+    "recovered":6523,
+    "active":20485,
+    "critical":0,
+    "casesPerOneMillion":20,
+    "deathsPerOneMillion":0,
+    "tests":625309,
+    "testsPerOneMillion":453,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,-5 ]
+    },
+    "properties": {
+    "updated":1587933011539,
+    "country":"Indonesia",
+    "countryInfo___id":"360",
+    "countryInfo__iso2":"ID",
+    "countryInfo__iso3":"IDN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/id.png",
+    "cases":8882,
+    "todayCases":275,
+    "deaths":743,
+    "todayDeaths":23,
+    "recovered":1107,
+    "active":7032,
+    "critical":0,
+    "casesPerOneMillion":32,
+    "deathsPerOneMillion":3,
+    "tests":72099,
+    "testsPerOneMillion":264,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53,32 ]
+    },
+    "properties": {
+    "updated":1587933011477,
+    "country":"Iran",
+    "countryInfo___id":"364",
+    "countryInfo__iso2":"IR",
+    "countryInfo__iso3":"IRN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ir.png",
+    "cases":90481,
+    "todayCases":1153,
+    "deaths":5710,
+    "todayDeaths":60,
+    "recovered":69657,
+    "active":15114,
+    "critical":3079,
+    "casesPerOneMillion":1077,
+    "deathsPerOneMillion":68,
+    "tests":421313,
+    "testsPerOneMillion":5016,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44,33 ]
+    },
+    "properties": {
+    "updated":1587933011591,
+    "country":"Iraq",
+    "countryInfo___id":"368",
+    "countryInfo__iso2":"IQ",
+    "countryInfo__iso3":"IRQ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/iq.png",
+    "cases":1820,
+    "todayCases":57,
+    "deaths":87,
+    "todayDeaths":1,
+    "recovered":1263,
+    "active":470,
+    "critical":0,
+    "casesPerOneMillion":45,
+    "deathsPerOneMillion":2,
+    "tests":71471,
+    "testsPerOneMillion":1777,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8,53 ]
+    },
+    "properties": {
+    "updated":1587933011500,
+    "country":"Ireland",
+    "countryInfo___id":"372",
+    "countryInfo__iso2":"IE",
+    "countryInfo__iso3":"IRL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ie.png",
+    "cases":19262,
+    "todayCases":701,
+    "deaths":1087,
+    "todayDeaths":24,
+    "recovered":9233,
+    "active":8942,
+    "critical":142,
+    "casesPerOneMillion":3901,
+    "deathsPerOneMillion":220,
+    "tests":127319,
+    "testsPerOneMillion":25785,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.55,54.23 ]
+    },
+    "properties": {
+    "updated":1587933011644,
+    "country":"Isle of Man",
+    "countryInfo___id":"833",
+    "countryInfo__iso2":"IM",
+    "countryInfo__iso3":"IMN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/im.png",
+    "cases":308,
+    "todayCases":0,
+    "deaths":18,
+    "todayDeaths":0,
+    "recovered":247,
+    "active":43,
+    "critical":22,
+    "casesPerOneMillion":3622,
+    "deathsPerOneMillion":212,
+    "tests":2854,
+    "testsPerOneMillion":33563,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.75,31.5 ]
+    },
+    "properties": {
+    "updated":1587933011511,
+    "country":"Israel",
+    "countryInfo___id":"376",
+    "countryInfo__iso2":"IL",
+    "countryInfo__iso3":"ISR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/il.png",
+    "cases":15398,
+    "todayCases":100,
+    "deaths":199,
+    "todayDeaths":0,
+    "recovered":6602,
+    "active":8597,
+    "critical":132,
+    "casesPerOneMillion":1779,
+    "deathsPerOneMillion":23,
+    "tests":302691,
+    "testsPerOneMillion":34971,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8333,42.8333 ]
+    },
+    "properties": {
+    "updated":1587933011469,
+    "country":"Italy",
+    "countryInfo___id":"380",
+    "countryInfo__iso2":"IT",
+    "countryInfo__iso3":"ITA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/it.png",
+    "cases":197675,
+    "todayCases":2324,
+    "deaths":26644,
+    "todayDeaths":260,
+    "recovered":64928,
+    "active":106103,
+    "critical":2009,
+    "casesPerOneMillion":3269,
+    "deathsPerOneMillion":441,
+    "tests":1757659,
+    "testsPerOneMillion":29071,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5,18.25 ]
+    },
+    "properties": {
+    "updated":1587933011644,
+    "country":"Jamaica",
+    "countryInfo___id":"388",
+    "countryInfo__iso2":"JM",
+    "countryInfo__iso3":"JAM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/jm.png",
+    "cases":305,
+    "todayCases":17,
+    "deaths":7,
+    "todayDeaths":0,
+    "recovered":28,
+    "active":270,
+    "critical":0,
+    "casesPerOneMillion":103,
+    "deathsPerOneMillion":2,
+    "tests":2868,
+    "testsPerOneMillion":969,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,36 ]
+    },
+    "properties": {
+    "updated":1587933011522,
+    "country":"Japan",
+    "countryInfo___id":"392",
+    "countryInfo__iso2":"JP",
+    "countryInfo__iso3":"JPN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/jp.png",
+    "cases":13231,
+    "todayCases":0,
+    "deaths":360,
+    "todayDeaths":0,
+    "recovered":1656,
+    "active":11215,
+    "critical":287,
+    "casesPerOneMillion":105,
+    "deathsPerOneMillion":3,
+    "tests":147454,
+    "testsPerOneMillion":1166,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36,31 ]
+    },
+    "properties": {
+    "updated":1587933011634,
+    "country":"Jordan",
+    "countryInfo___id":"400",
+    "countryInfo__iso2":"JO",
+    "countryInfo__iso3":"JOR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/jo.png",
+    "cases":447,
+    "todayCases":3,
+    "deaths":7,
+    "todayDeaths":0,
+    "recovered":337,
+    "active":103,
+    "critical":5,
+    "casesPerOneMillion":44,
+    "deathsPerOneMillion":0,
+    "tests":63737,
+    "testsPerOneMillion":6247,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68,48 ]
+    },
+    "properties": {
+    "updated":1587933011580,
+    "country":"Kazakhstan",
+    "countryInfo___id":"398",
+    "countryInfo__iso2":"KZ",
+    "countryInfo__iso3":"KAZ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kz.png",
+    "cases":2693,
+    "todayCases":92,
+    "deaths":25,
+    "todayDeaths":0,
+    "recovered":677,
+    "active":1991,
+    "critical":31,
+    "casesPerOneMillion":143,
+    "deathsPerOneMillion":1,
+    "tests":196298,
+    "testsPerOneMillion":10454,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,1 ]
+    },
+    "properties": {
+    "updated":1587933011639,
+    "country":"Kenya",
+    "countryInfo___id":"404",
+    "countryInfo__iso2":"KE",
+    "countryInfo__iso3":"KEN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ke.png",
+    "cases":355,
+    "todayCases":12,
+    "deaths":14,
+    "todayDeaths":0,
+    "recovered":106,
+    "active":235,
+    "critical":2,
+    "casesPerOneMillion":7,
+    "deathsPerOneMillion":0,
+    "tests":17992,
+    "testsPerOneMillion":335,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.6581,29.3375 ]
+    },
+    "properties": {
+    "updated":1587933011577,
+    "country":"Kuwait",
+    "countryInfo___id":"414",
+    "countryInfo__iso2":"KW",
+    "countryInfo__iso3":"KWT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kw.png",
+    "cases":3075,
+    "todayCases":183,
+    "deaths":20,
+    "todayDeaths":1,
+    "recovered":806,
+    "active":2249,
+    "critical":61,
+    "casesPerOneMillion":720,
+    "deathsPerOneMillion":5,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75,41 ]
+    },
+    "properties": {
+    "updated":1587933011622,
+    "country":"Kyrgyzstan",
+    "countryInfo___id":"417",
+    "countryInfo__iso2":"KG",
+    "countryInfo__iso3":"KGZ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kg.png",
+    "cases":682,
+    "todayCases":17,
+    "deaths":8,
+    "todayDeaths":0,
+    "recovered":370,
+    "active":304,
+    "critical":13,
+    "casesPerOneMillion":105,
+    "deathsPerOneMillion":1,
+    "tests":45627,
+    "testsPerOneMillion":6994,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,18 ]
+    },
+    "properties": {
+    "updated":1587933011699,
+    "country":"Lao People's Democratic Republic",
+    "countryInfo___id":"418",
+    "countryInfo__iso2":"LA",
+    "countryInfo__iso3":"LAO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/la.png",
+    "cases":19,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":7,
+    "active":12,
+    "critical":0,
+    "casesPerOneMillion":3,
+    "deathsPerOneMillion":0,
+    "tests":1735,
+    "testsPerOneMillion":238,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,57 ]
+    },
+    "properties": {
+    "updated":1587933011616,
+    "country":"Latvia",
+    "countryInfo___id":"428",
+    "countryInfo__iso2":"LV",
+    "countryInfo__iso3":"LVA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lv.png",
+    "cases":812,
+    "todayCases":8,
+    "deaths":12,
+    "todayDeaths":0,
+    "recovered":267,
+    "active":533,
+    "critical":6,
+    "casesPerOneMillion":430,
+    "deathsPerOneMillion":6,
+    "tests":47671,
+    "testsPerOneMillion":25274,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8333,33.8333 ]
+    },
+    "properties": {
+    "updated":1587933011619,
+    "country":"Lebanon",
+    "countryInfo___id":"422",
+    "countryInfo__iso2":"LB",
+    "countryInfo__iso3":"LBN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lb.png",
+    "cases":707,
+    "todayCases":3,
+    "deaths":24,
+    "todayDeaths":0,
+    "recovered":145,
+    "active":538,
+    "critical":44,
+    "casesPerOneMillion":104,
+    "deathsPerOneMillion":4,
+    "tests":27827,
+    "testsPerOneMillion":4077,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5,6.5 ]
+    },
+    "properties": {
+    "updated":1587933011662,
+    "country":"Liberia",
+    "countryInfo___id":"430",
+    "countryInfo__iso2":"LR",
+    "countryInfo__iso3":"LBR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lr.png",
+    "cases":120,
+    "todayCases":0,
+    "deaths":12,
+    "todayDeaths":1,
+    "recovered":25,
+    "active":83,
+    "critical":0,
+    "casesPerOneMillion":24,
+    "deathsPerOneMillion":2,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17,25 ]
+    },
+    "properties": {
+    "updated":1587933011684,
+    "country":"Libyan Arab Jamahiriya",
+    "countryInfo___id":"434",
+    "countryInfo__iso2":"LY",
+    "countryInfo__iso3":"LBY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ly.png",
+    "cases":61,
+    "todayCases":0,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":18,
+    "active":41,
+    "critical":0,
+    "casesPerOneMillion":9,
+    "deathsPerOneMillion":0,
+    "tests":1623,
+    "testsPerOneMillion":236,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5333,47.1667 ]
+    },
+    "properties": {
+    "updated":1587933011672,
+    "country":"Liechtenstein",
+    "countryInfo___id":"438",
+    "countryInfo__iso2":"LI",
+    "countryInfo__iso3":"LIE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/li.png",
+    "cases":82,
+    "todayCases":1,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":55,
+    "active":26,
+    "critical":0,
+    "casesPerOneMillion":2151,
+    "deathsPerOneMillion":26,
+    "tests":900,
+    "testsPerOneMillion":23605,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,56 ]
+    },
+    "properties": {
+    "updated":1587933011602,
+    "country":"Lithuania",
+    "countryInfo___id":"440",
+    "countryInfo__iso2":"LT",
+    "countryInfo__iso3":"LTU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lt.png",
+    "cases":1438,
+    "todayCases":12,
+    "deaths":41,
+    "todayDeaths":0,
+    "recovered":467,
+    "active":930,
+    "critical":17,
+    "casesPerOneMillion":528,
+    "deathsPerOneMillion":15,
+    "tests":104488,
+    "testsPerOneMillion":38382,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1667,49.75 ]
+    },
+    "properties": {
+    "updated":1587933011573,
+    "country":"Luxembourg",
+    "countryInfo___id":"442",
+    "countryInfo__iso2":"LU",
+    "countryInfo__iso3":"LUX",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lu.png",
+    "cases":3723,
+    "todayCases":12,
+    "deaths":88,
+    "todayDeaths":3,
+    "recovered":3104,
+    "active":531,
+    "critical":22,
+    "casesPerOneMillion":5947,
+    "deathsPerOneMillion":141,
+    "tests":39003,
+    "testsPerOneMillion":62307,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "updated":1587933011714,
+    "country":"MS Zaandam",
+    "countryInfo___id":"null",
+    "countryInfo__iso2":"null",
+    "countryInfo__iso3":"null",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/unknown.png",
+    "cases":9,
+    "todayCases":0,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":7,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.55,22.1667 ]
+    },
+    "properties": {
+    "updated":1587933011689,
+    "country":"Macao",
+    "countryInfo___id":"446",
+    "countryInfo__iso2":"MO",
+    "countryInfo__iso3":"MAC",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mo.png",
+    "cases":45,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":31,
+    "active":14,
+    "critical":1,
+    "casesPerOneMillion":69,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22,41.8333 ]
+    },
+    "properties": {
+    "updated":1587933011604,
+    "country":"Macedonia",
+    "countryInfo___id":"807",
+    "countryInfo__iso2":"MK",
+    "countryInfo__iso3":"MKD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mk.png",
+    "cases":1386,
+    "todayCases":19,
+    "deaths":61,
+    "todayDeaths":2,
+    "recovered":500,
+    "active":825,
+    "critical":13,
+    "casesPerOneMillion":665,
+    "deathsPerOneMillion":29,
+    "tests":15120,
+    "testsPerOneMillion":7257,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47,-20 ]
+    },
+    "properties": {
+    "updated":1587933011658,
+    "country":"Madagascar",
+    "countryInfo___id":"450",
+    "countryInfo__iso2":"MG",
+    "countryInfo__iso3":"MDG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mg.png",
+    "cases":124,
+    "todayCases":1,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":71,
+    "active":53,
+    "critical":1,
+    "casesPerOneMillion":4,
+    "deathsPerOneMillion":0,
+    "tests":2357,
+    "testsPerOneMillion":85,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34,-13.5 ]
+    },
+    "properties": {
+    "updated":1587933011693,
+    "country":"Malawi",
+    "countryInfo___id":"454",
+    "countryInfo__iso2":"MW",
+    "countryInfo__iso3":"MWI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mw.png",
+    "cases":34,
+    "todayCases":1,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":4,
+    "active":27,
+    "critical":1,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":617,
+    "testsPerOneMillion":32,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5,2.5 ]
+    },
+    "properties": {
+    "updated":1587933011556,
+    "country":"Malaysia",
+    "countryInfo___id":"458",
+    "countryInfo__iso2":"MY",
+    "countryInfo__iso3":"MYS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/my.png",
+    "cases":5780,
+    "todayCases":38,
+    "deaths":98,
+    "todayDeaths":0,
+    "recovered":3862,
+    "active":1820,
+    "critical":36,
+    "casesPerOneMillion":179,
+    "deathsPerOneMillion":3,
+    "tests":131491,
+    "testsPerOneMillion":4063,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73,3.25 ]
+    },
+    "properties": {
+    "updated":1587933011650,
+    "country":"Maldives",
+    "countryInfo___id":"462",
+    "countryInfo__iso2":"MV",
+    "countryInfo__iso3":"MDV",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mv.png",
+    "cases":214,
+    "todayCases":37,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":17,
+    "active":197,
+    "critical":2,
+    "casesPerOneMillion":396,
+    "deathsPerOneMillion":0,
+    "tests":5296,
+    "testsPerOneMillion":9798,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4,17 ]
+    },
+    "properties": {
+    "updated":1587933011639,
+    "country":"Mali",
+    "countryInfo___id":"466",
+    "countryInfo__iso2":"ML",
+    "countryInfo__iso3":"MLI",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ml.png",
+    "cases":389,
+    "todayCases":19,
+    "deaths":23,
+    "todayDeaths":2,
+    "recovered":112,
+    "active":254,
+    "critical":0,
+    "casesPerOneMillion":19,
+    "deathsPerOneMillion":1,
+    "tests":2172,
+    "testsPerOneMillion":107,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5833,35.8333 ]
+    },
+    "properties": {
+    "updated":1587933011633,
+    "country":"Malta",
+    "countryInfo___id":"470",
+    "countryInfo__iso2":"MT",
+    "countryInfo__iso3":"MLT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mt.png",
+    "cases":448,
+    "todayCases":0,
+    "deaths":4,
+    "todayDeaths":0,
+    "recovered":282,
+    "active":162,
+    "critical":2,
+    "casesPerOneMillion":1015,
+    "deathsPerOneMillion":9,
+    "tests":27981,
+    "testsPerOneMillion":63371,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61,14.6667 ]
+    },
+    "properties": {
+    "updated":1587933011654,
+    "country":"Martinique",
+    "countryInfo___id":"474",
+    "countryInfo__iso2":"MQ",
+    "countryInfo__iso3":"MTQ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mq.png",
+    "cases":175,
+    "todayCases":0,
+    "deaths":14,
+    "todayDeaths":0,
+    "recovered":77,
+    "active":84,
+    "critical":7,
+    "casesPerOneMillion":466,
+    "deathsPerOneMillion":37,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12,20 ]
+    },
+    "properties": {
+    "updated":1587933011716,
+    "country":"Mauritania",
+    "countryInfo___id":"478",
+    "countryInfo__iso2":"MR",
+    "countryInfo__iso3":"MRT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mr.png",
+    "cases":7,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":6,
+    "active":0,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":1032,
+    "testsPerOneMillion":222,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.55,-20.2833 ]
+    },
+    "properties": {
+    "updated":1587933011641,
+    "country":"Mauritius",
+    "countryInfo___id":"480",
+    "countryInfo__iso2":"MU",
+    "countryInfo__iso3":"MUS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mu.png",
+    "cases":332,
+    "todayCases":1,
+    "deaths":9,
+    "todayDeaths":0,
+    "recovered":299,
+    "active":24,
+    "critical":3,
+    "casesPerOneMillion":261,
+    "deathsPerOneMillion":7,
+    "tests":14445,
+    "testsPerOneMillion":11358,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1667,-12.8333 ]
+    },
+    "properties": {
+    "updated":1587933011638,
+    "country":"Mayotte",
+    "countryInfo___id":"175",
+    "countryInfo__iso2":"YT",
+    "countryInfo__iso3":"MYT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/yt.png",
+    "cases":401,
+    "todayCases":21,
+    "deaths":4,
+    "todayDeaths":0,
+    "recovered":144,
+    "active":253,
+    "critical":4,
+    "casesPerOneMillion":1470,
+    "deathsPerOneMillion":15,
+    "tests":2500,
+    "testsPerOneMillion":9164,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102,23 ]
+    },
+    "properties": {
+    "updated":1587933011515,
+    "country":"Mexico",
+    "countryInfo___id":"484",
+    "countryInfo__iso2":"MX",
+    "countryInfo__iso3":"MEX",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mx.png",
+    "cases":13842,
+    "todayCases":970,
+    "deaths":1305,
+    "todayDeaths":84,
+    "recovered":7149,
+    "active":5388,
+    "critical":378,
+    "casesPerOneMillion":107,
+    "deathsPerOneMillion":10,
+    "tests":65500,
+    "testsPerOneMillion":508,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29,47 ]
+    },
+    "properties": {
+    "updated":1587933011574,
+    "country":"Moldova",
+    "countryInfo___id":"498",
+    "countryInfo__iso2":"MD",
+    "countryInfo__iso3":"MDA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/md.png",
+    "cases":3408,
+    "todayCases":104,
+    "deaths":96,
+    "todayDeaths":2,
+    "recovered":895,
+    "active":2417,
+    "critical":212,
+    "casesPerOneMillion":845,
+    "deathsPerOneMillion":24,
+    "tests":11763,
+    "testsPerOneMillion":2916,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4,43.7333 ]
+    },
+    "properties": {
+    "updated":1587933011669,
+    "country":"Monaco",
+    "countryInfo___id":"492",
+    "countryInfo__iso2":"MC",
+    "countryInfo__iso3":"MCO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mc.png",
+    "cases":94,
+    "todayCases":0,
+    "deaths":4,
+    "todayDeaths":0,
+    "recovered":42,
+    "active":48,
+    "critical":1,
+    "casesPerOneMillion":2395,
+    "deathsPerOneMillion":102,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,46 ]
+    },
+    "properties": {
+    "updated":1587933011692,
+    "country":"Mongolia",
+    "countryInfo___id":"496",
+    "countryInfo__iso2":"MN",
+    "countryInfo__iso3":"MNG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mn.png",
+    "cases":38,
+    "todayCases":1,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":9,
+    "active":29,
+    "critical":0,
+    "casesPerOneMillion":12,
+    "deathsPerOneMillion":0,
+    "tests":7292,
+    "testsPerOneMillion":2224,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19,42 ]
+    },
+    "properties": {
+    "updated":1587933011643,
+    "country":"Montenegro",
+    "countryInfo___id":"499",
+    "countryInfo__iso2":"ME",
+    "countryInfo__iso3":"MNE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/me.png",
+    "cases":321,
+    "todayCases":1,
+    "deaths":7,
+    "todayDeaths":1,
+    "recovered":153,
+    "active":161,
+    "critical":7,
+    "casesPerOneMillion":511,
+    "deathsPerOneMillion":11,
+    "tests":5085,
+    "testsPerOneMillion":8096,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.2,16.75 ]
+    },
+    "properties": {
+    "updated":1587933011710,
+    "country":"Montserrat",
+    "countryInfo___id":"500",
+    "countryInfo__iso2":"MS",
+    "countryInfo__iso3":"MSR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ms.png",
+    "cases":11,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":2,
+    "active":8,
+    "critical":1,
+    "casesPerOneMillion":2204,
+    "deathsPerOneMillion":200,
+    "tests":36,
+    "testsPerOneMillion":7212,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,32 ]
+    },
+    "properties": {
+    "updated":1587933011569,
+    "country":"Morocco",
+    "countryInfo___id":"504",
+    "countryInfo__iso2":"MA",
+    "countryInfo__iso3":"MAR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ma.png",
+    "cases":4065,
+    "todayCases":168,
+    "deaths":161,
+    "todayDeaths":2,
+    "recovered":593,
+    "active":3311,
+    "critical":1,
+    "casesPerOneMillion":110,
+    "deathsPerOneMillion":4,
+    "tests":26472,
+    "testsPerOneMillion":717,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,-18.25 ]
+    },
+    "properties": {
+    "updated":1587933011676,
+    "country":"Mozambique",
+    "countryInfo___id":"508",
+    "countryInfo__iso2":"MZ",
+    "countryInfo__iso3":"MOZ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mz.png",
+    "cases":76,
+    "todayCases":6,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":12,
+    "active":64,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":1644,
+    "testsPerOneMillion":53,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98,22 ]
+    },
+    "properties": {
+    "updated":1587933011655,
+    "country":"Myanmar",
+    "countryInfo___id":"104",
+    "countryInfo__iso2":"MM",
+    "countryInfo__iso3":"MMR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mm.png",
+    "cases":146,
+    "todayCases":2,
+    "deaths":5,
+    "todayDeaths":0,
+    "recovered":10,
+    "active":131,
+    "critical":0,
+    "casesPerOneMillion":3,
+    "deathsPerOneMillion":0,
+    "tests":6678,
+    "testsPerOneMillion":123,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17,-22 ]
+    },
+    "properties": {
+    "updated":1587933011703,
+    "country":"Namibia",
+    "countryInfo___id":"516",
+    "countryInfo__iso2":"NA",
+    "countryInfo__iso3":"NAM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/na.png",
+    "cases":16,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":8,
+    "active":8,
+    "critical":0,
+    "casesPerOneMillion":6,
+    "deathsPerOneMillion":0,
+    "tests":675,
+    "testsPerOneMillion":266,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84,28 ]
+    },
+    "properties": {
+    "updated":1587933011687,
+    "country":"Nepal",
+    "countryInfo___id":"524",
+    "countryInfo__iso2":"NP",
+    "countryInfo__iso3":"NPL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/np.png",
+    "cases":52,
+    "todayCases":3,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":16,
+    "active":36,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":51367,
+    "testsPerOneMillion":1763,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.75,52.5 ]
+    },
+    "properties": {
+    "updated":1587933011486,
+    "country":"Netherlands",
+    "countryInfo___id":"528",
+    "countryInfo__iso2":"NL",
+    "countryInfo__iso3":"NLD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/nl.png",
+    "cases":37845,
+    "todayCases":655,
+    "deaths":4475,
+    "todayDeaths":66,
+    "recovered":0,
+    "active":33120,
+    "critical":934,
+    "casesPerOneMillion":2209,
+    "deathsPerOneMillion":261,
+    "tests":193950,
+    "testsPerOneMillion":11319,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.5,-21.5 ]
+    },
+    "properties": {
+    "updated":1587933011702,
+    "country":"New Caledonia",
+    "countryInfo___id":"540",
+    "countryInfo__iso2":"NC",
+    "countryInfo__iso3":"NCL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/nc.png",
+    "cases":18,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":17,
+    "active":1,
+    "critical":1,
+    "casesPerOneMillion":63,
+    "deathsPerOneMillion":0,
+    "tests":3952,
+    "testsPerOneMillion":13842,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174,-41 ]
+    },
+    "properties": {
+    "updated":1587933011601,
+    "country":"New Zealand",
+    "countryInfo___id":"554",
+    "countryInfo__iso2":"NZ",
+    "countryInfo__iso3":"NZL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/nz.png",
+    "cases":1470,
+    "todayCases":9,
+    "deaths":18,
+    "todayDeaths":0,
+    "recovered":1142,
+    "active":310,
+    "critical":1,
+    "casesPerOneMillion":305,
+    "deathsPerOneMillion":4,
+    "tests":120981,
+    "testsPerOneMillion":25088,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85,13 ]
+    },
+    "properties": {
+    "updated":1587933011708,
+    "country":"Nicaragua",
+    "countryInfo___id":"558",
+    "countryInfo__iso2":"NI",
+    "countryInfo__iso3":"NIC",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ni.png",
+    "cases":13,
+    "todayCases":1,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":7,
+    "active":3,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,16 ]
+    },
+    "properties": {
+    "updated":1587933011622,
+    "country":"Niger",
+    "countryInfo___id":"562",
+    "countryInfo__iso2":"NE",
+    "countryInfo__iso3":"NER",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ne.png",
+    "cases":684,
+    "todayCases":0,
+    "deaths":27,
+    "todayDeaths":0,
+    "recovered":325,
+    "active":332,
+    "critical":0,
+    "casesPerOneMillion":28,
+    "deathsPerOneMillion":1,
+    "tests":5013,
+    "testsPerOneMillion":207,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,10 ]
+    },
+    "properties": {
+    "updated":1587933011609,
+    "country":"Nigeria",
+    "countryInfo___id":"566",
+    "countryInfo__iso2":"NG",
+    "countryInfo__iso3":"NGA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ng.png",
+    "cases":1182,
+    "todayCases":0,
+    "deaths":35,
+    "todayDeaths":0,
+    "recovered":222,
+    "active":925,
+    "critical":2,
+    "casesPerOneMillion":6,
+    "deathsPerOneMillion":0,
+    "tests":10061,
+    "testsPerOneMillion":49,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,62 ]
+    },
+    "properties": {
+    "updated":1587933011551,
+    "country":"Norway",
+    "countryInfo___id":"578",
+    "countryInfo__iso2":"NO",
+    "countryInfo__iso3":"NOR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/no.png",
+    "cases":7511,
+    "todayCases":18,
+    "deaths":201,
+    "todayDeaths":0,
+    "recovered":32,
+    "active":7278,
+    "critical":49,
+    "casesPerOneMillion":1385,
+    "deathsPerOneMillion":37,
+    "tests":155125,
+    "testsPerOneMillion":28614,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57,21 ]
+    },
+    "properties": {
+    "updated":1587933011587,
+    "country":"Oman",
+    "countryInfo___id":"512",
+    "countryInfo__iso2":"OM",
+    "countryInfo__iso3":"OMN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/om.png",
+    "cases":1998,
+    "todayCases":93,
+    "deaths":10,
+    "todayDeaths":0,
+    "recovered":333,
+    "active":1655,
+    "critical":3,
+    "casesPerOneMillion":391,
+    "deathsPerOneMillion":2,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70,30 ]
+    },
+    "properties": {
+    "updated":1587933011521,
+    "country":"Pakistan",
+    "countryInfo___id":"586",
+    "countryInfo__iso2":"PK",
+    "countryInfo__iso3":"PAK",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pk.png",
+    "cases":13328,
+    "todayCases":605,
+    "deaths":281,
+    "todayDeaths":12,
+    "recovered":2936,
+    "active":10111,
+    "critical":111,
+    "casesPerOneMillion":60,
+    "deathsPerOneMillion":1,
+    "tests":144365,
+    "testsPerOneMillion":654,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25,32 ]
+    },
+    "properties": {
+    "updated":1587933011641,
+    "country":"Palestine",
+    "countryInfo___id":"275",
+    "countryInfo__iso2":"PS",
+    "countryInfo__iso3":"PSE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ps.png",
+    "cases":342,
+    "todayCases":0,
+    "deaths":2,
+    "todayDeaths":0,
+    "recovered":83,
+    "active":257,
+    "critical":0,
+    "casesPerOneMillion":67,
+    "deathsPerOneMillion":0,
+    "tests":27000,
+    "testsPerOneMillion":5293,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80,9 ]
+    },
+    "properties": {
+    "updated":1587933011557,
+    "country":"Panama",
+    "countryInfo___id":"591",
+    "countryInfo__iso2":"PA",
+    "countryInfo__iso3":"PAN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pa.png",
+    "cases":5538,
+    "todayCases":200,
+    "deaths":159,
+    "todayDeaths":5,
+    "recovered":338,
+    "active":5041,
+    "critical":85,
+    "casesPerOneMillion":1283,
+    "deathsPerOneMillion":37,
+    "tests":25400,
+    "testsPerOneMillion":5887,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147,-6 ]
+    },
+    "properties": {
+    "updated":1587933011715,
+    "country":"Papua New Guinea",
+    "countryInfo___id":"598",
+    "countryInfo__iso2":"PG",
+    "countryInfo__iso3":"PNG",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pg.png",
+    "cases":8,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":8,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":604,
+    "testsPerOneMillion":68,
+    "continent":"Australia/Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58,-23 ]
+    },
+    "properties": {
+    "updated":1587933011649,
+    "country":"Paraguay",
+    "countryInfo___id":"600",
+    "countryInfo__iso2":"PY",
+    "countryInfo__iso3":"PRY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/py.png",
+    "cases":228,
+    "todayCases":5,
+    "deaths":9,
+    "todayDeaths":0,
+    "recovered":85,
+    "active":134,
+    "critical":1,
+    "casesPerOneMillion":32,
+    "deathsPerOneMillion":1,
+    "tests":7630,
+    "testsPerOneMillion":1070,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,-10 ]
+    },
+    "properties": {
+    "updated":1587933011493,
+    "country":"Peru",
+    "countryInfo___id":"604",
+    "countryInfo__iso2":"PE",
+    "countryInfo__iso3":"PER",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pe.png",
+    "cases":27517,
+    "todayCases":2186,
+    "deaths":728,
+    "todayDeaths":28,
+    "recovered":8088,
+    "active":18701,
+    "critical":554,
+    "casesPerOneMillion":835,
+    "deathsPerOneMillion":22,
+    "tests":232747,
+    "testsPerOneMillion":7059,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,13 ]
+    },
+    "properties": {
+    "updated":1587933011549,
+    "country":"Philippines",
+    "countryInfo___id":"608",
+    "countryInfo__iso2":"PH",
+    "countryInfo__iso3":"PHL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ph.png",
+    "cases":7579,
+    "todayCases":285,
+    "deaths":501,
+    "todayDeaths":7,
+    "recovered":862,
+    "active":6216,
+    "critical":1,
+    "casesPerOneMillion":69,
+    "deathsPerOneMillion":5,
+    "tests":84789,
+    "testsPerOneMillion":774,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20,52 ]
+    },
+    "properties": {
+    "updated":1587933011524,
+    "country":"Poland",
+    "countryInfo___id":"616",
+    "countryInfo__iso2":"PL",
+    "countryInfo__iso3":"POL",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pl.png",
+    "cases":11617,
+    "todayCases":344,
+    "deaths":535,
+    "todayDeaths":11,
+    "recovered":2265,
+    "active":8817,
+    "critical":160,
+    "casesPerOneMillion":307,
+    "deathsPerOneMillion":14,
+    "tests":290633,
+    "testsPerOneMillion":7679,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8,39.5 ]
+    },
+    "properties": {
+    "updated":1587933011495,
+    "country":"Portugal",
+    "countryInfo___id":"620",
+    "countryInfo__iso2":"PT",
+    "countryInfo__iso3":"PRT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pt.png",
+    "cases":23864,
+    "todayCases":472,
+    "deaths":903,
+    "todayDeaths":23,
+    "recovered":1329,
+    "active":21632,
+    "critical":182,
+    "casesPerOneMillion":2340,
+    "deathsPerOneMillion":89,
+    "tests":330512,
+    "testsPerOneMillion":32414,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.25,25.5 ]
+    },
+    "properties": {
+    "updated":1587933011537,
+    "country":"Qatar",
+    "countryInfo___id":"634",
+    "countryInfo__iso2":"QA",
+    "countryInfo__iso3":"QAT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/qa.png",
+    "cases":10287,
+    "todayCases":929,
+    "deaths":10,
+    "todayDeaths":0,
+    "recovered":1012,
+    "active":9265,
+    "critical":72,
+    "casesPerOneMillion":3571,
+    "deathsPerOneMillion":3,
+    "tests":82289,
+    "testsPerOneMillion":28562,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25,46 ]
+    },
+    "properties": {
+    "updated":1587933011526,
+    "country":"Romania",
+    "countryInfo___id":"642",
+    "countryInfo__iso2":"RO",
+    "countryInfo__iso3":"ROU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ro.png",
+    "cases":11036,
+    "todayCases":401,
+    "deaths":619,
+    "todayDeaths":18,
+    "recovered":3054,
+    "active":7363,
+    "critical":236,
+    "casesPerOneMillion":574,
+    "deathsPerOneMillion":32,
+    "tests":136518,
+    "testsPerOneMillion":7096,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,60 ]
+    },
+    "properties": {
+    "updated":1587933011479,
+    "country":"Russia",
+    "countryInfo___id":"643",
+    "countryInfo__iso2":"RU",
+    "countryInfo__iso3":"RUS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ru.png",
+    "cases":80949,
+    "todayCases":6361,
+    "deaths":747,
+    "todayDeaths":66,
+    "recovered":6767,
+    "active":73435,
+    "critical":2300,
+    "casesPerOneMillion":555,
+    "deathsPerOneMillion":5,
+    "tests":2877699,
+    "testsPerOneMillion":19719,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-2 ]
+    },
+    "properties": {
+    "updated":1587933011651,
+    "country":"Rwanda",
+    "countryInfo___id":"646",
+    "countryInfo__iso2":"RW",
+    "countryInfo__iso3":"RWA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/rw.png",
+    "cases":191,
+    "todayCases":8,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":92,
+    "active":99,
+    "critical":0,
+    "casesPerOneMillion":15,
+    "deathsPerOneMillion":0,
+    "tests":6959,
+    "testsPerOneMillion":537,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.6,-21.1 ]
+    },
+    "properties": {
+    "updated":1587933011637,
+    "country":"Réunion",
+    "countryInfo___id":"638",
+    "countryInfo__iso2":"RE",
+    "countryInfo__iso3":"REU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/re.png",
+    "cases":417,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":300,
+    "active":117,
+    "critical":2,
+    "casesPerOneMillion":466,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.5,37 ]
+    },
+    "properties": {
+    "updated":1587933011529,
+    "country":"S. Korea",
+    "countryInfo___id":"410",
+    "countryInfo__iso2":"KR",
+    "countryInfo__iso3":"KOR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kr.png",
+    "cases":10728,
+    "todayCases":10,
+    "deaths":242,
+    "todayDeaths":2,
+    "recovered":8717,
+    "active":1769,
+    "critical":55,
+    "casesPerOneMillion":209,
+    "deathsPerOneMillion":5,
+    "tests":598285,
+    "testsPerOneMillion":11669,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.75,17.3333 ]
+    },
+    "properties": {
+    "updated":1587933011704,
+    "country":"Saint Kitts and Nevis",
+    "countryInfo___id":"659",
+    "countryInfo__iso2":"KN",
+    "countryInfo__iso3":"KNA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/kn.png",
+    "cases":15,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":2,
+    "active":13,
+    "critical":0,
+    "casesPerOneMillion":282,
+    "deathsPerOneMillion":0,
+    "tests":260,
+    "testsPerOneMillion":4887,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.1333,13.8833 ]
+    },
+    "properties": {
+    "updated":1587933011705,
+    "country":"Saint Lucia",
+    "countryInfo___id":"662",
+    "countryInfo__iso2":"LC",
+    "countryInfo__iso3":"LCA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lc.png",
+    "cases":15,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":15,
+    "active":0,
+    "critical":0,
+    "casesPerOneMillion":82,
+    "deathsPerOneMillion":0,
+    "tests":446,
+    "testsPerOneMillion":2429,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.03,18.11 ]
+    },
+    "properties": {
+    "updated":1587933011692,
+    "country":"Saint Martin",
+    "countryInfo___id":"663",
+    "countryInfo__iso2":"MF",
+    "countryInfo__iso3":"MAF",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/mf.png",
+    "cases":38,
+    "todayCases":0,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":24,
+    "active":11,
+    "critical":3,
+    "casesPerOneMillion":983,
+    "deathsPerOneMillion":78,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.3333,46.8333 ]
+    },
+    "properties": {
+    "updated":1587933011723,
+    "country":"Saint Pierre Miquelon",
+    "countryInfo___id":"666",
+    "countryInfo__iso2":"PM",
+    "countryInfo__iso3":"SPM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/pm.png",
+    "cases":1,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":1,
+    "critical":0,
+    "casesPerOneMillion":173,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2,13.25 ]
+    },
+    "properties": {
+    "updated":1587933011706,
+    "country":"Saint Vincent and the Grenadines",
+    "countryInfo___id":"670",
+    "countryInfo__iso2":"VC",
+    "countryInfo__iso3":"VCT",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/vc.png",
+    "cases":14,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":5,
+    "active":9,
+    "critical":0,
+    "casesPerOneMillion":126,
+    "deathsPerOneMillion":0,
+    "tests":108,
+    "testsPerOneMillion":973,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4167,43.7667 ]
+    },
+    "properties": {
+    "updated":1587933011627,
+    "country":"San Marino",
+    "countryInfo___id":"674",
+    "countryInfo__iso2":"SM",
+    "countryInfo__iso3":"SMR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sm.png",
+    "cases":538,
+    "todayCases":25,
+    "deaths":41,
+    "todayDeaths":1,
+    "recovered":64,
+    "active":433,
+    "critical":4,
+    "casesPerOneMillion":15856,
+    "deathsPerOneMillion":1208,
+    "tests":2074,
+    "testsPerOneMillion":61124,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7,1 ]
+    },
+    "properties": {
+    "updated":1587933011721,
+    "country":"Sao Tome and Principe",
+    "countryInfo___id":"678",
+    "countryInfo__iso2":"ST",
+    "countryInfo__iso3":"STP",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/st.png",
+    "cases":4,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":4,
+    "critical":0,
+    "casesPerOneMillion":18,
+    "deathsPerOneMillion":0,
+    "tests":19,
+    "testsPerOneMillion":87,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45,25 ]
+    },
+    "properties": {
+    "updated":1587933011509,
+    "country":"Saudi Arabia",
+    "countryInfo___id":"682",
+    "countryInfo__iso2":"SA",
+    "countryInfo__iso3":"SAU",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sa.png",
+    "cases":17522,
+    "todayCases":1223,
+    "deaths":139,
+    "todayDeaths":3,
+    "recovered":2357,
+    "active":15026,
+    "critical":115,
+    "casesPerOneMillion":503,
+    "deathsPerOneMillion":4,
+    "tests":200000,
+    "testsPerOneMillion":5745,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14,14 ]
+    },
+    "properties": {
+    "updated":1587933011623,
+    "country":"Senegal",
+    "countryInfo___id":"686",
+    "countryInfo__iso2":"SN",
+    "countryInfo__iso3":"SEN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sn.png",
+    "cases":671,
+    "todayCases":57,
+    "deaths":8,
+    "todayDeaths":1,
+    "recovered":283,
+    "active":380,
+    "critical":1,
+    "casesPerOneMillion":40,
+    "deathsPerOneMillion":0,
+    "tests":466,
+    "testsPerOneMillion":28,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21,44 ]
+    },
+    "properties": {
+    "updated":1587933011546,
+    "country":"Serbia",
+    "countryInfo___id":"688",
+    "countryInfo__iso2":"RS",
+    "countryInfo__iso3":"SRB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/rs.png",
+    "cases":8042,
+    "todayCases":263,
+    "deaths":156,
+    "todayDeaths":5,
+    "recovered":1182,
+    "active":6704,
+    "critical":85,
+    "casesPerOneMillion":920,
+    "deathsPerOneMillion":18,
+    "tests":64303,
+    "testsPerOneMillion":7360,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.6667,-4.5833 ]
+    },
+    "properties": {
+    "updated":1587933011712,
+    "country":"Seychelles",
+    "countryInfo___id":"690",
+    "countryInfo__iso2":"SC",
+    "countryInfo__iso3":"SYC",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sc.png",
+    "cases":11,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":6,
+    "active":5,
+    "critical":0,
+    "casesPerOneMillion":112,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.5,8.5 ]
+    },
+    "properties": {
+    "updated":1587933011670,
+    "country":"Sierra Leone",
+    "countryInfo___id":"694",
+    "countryInfo__iso2":"SL",
+    "countryInfo__iso3":"SLE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sl.png",
+    "cases":93,
+    "todayCases":11,
+    "deaths":4,
+    "todayDeaths":2,
+    "recovered":10,
+    "active":79,
+    "critical":0,
+    "casesPerOneMillion":12,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8,1.3667 ]
+    },
+    "properties": {
+    "updated":1587933011517,
+    "country":"Singapore",
+    "countryInfo___id":"702",
+    "countryInfo__iso2":"SG",
+    "countryInfo__iso3":"SGP",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sg.png",
+    "cases":13624,
+    "todayCases":931,
+    "deaths":12,
+    "todayDeaths":0,
+    "recovered":1060,
+    "active":12552,
+    "critical":22,
+    "casesPerOneMillion":2329,
+    "deathsPerOneMillion":2,
+    "tests":121774,
+    "testsPerOneMillion":20815,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.06,18.02 ]
+    },
+    "properties": {
+    "updated":1587933011678,
+    "country":"Sint Maarten",
+    "countryInfo___id":"534",
+    "countryInfo__iso2":"SX",
+    "countryInfo__iso3":"SXM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sx.png",
+    "cases":74,
+    "todayCases":1,
+    "deaths":13,
+    "todayDeaths":1,
+    "recovered":33,
+    "active":28,
+    "critical":7,
+    "casesPerOneMillion":1726,
+    "deathsPerOneMillion":303,
+    "tests":266,
+    "testsPerOneMillion":6204,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5,48.6667 ]
+    },
+    "properties": {
+    "updated":1587933011606,
+    "country":"Slovakia",
+    "countryInfo___id":"703",
+    "countryInfo__iso2":"SK",
+    "countryInfo__iso3":"SVK",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sk.png",
+    "cases":1379,
+    "todayCases":6,
+    "deaths":18,
+    "todayDeaths":1,
+    "recovered":394,
+    "active":967,
+    "critical":5,
+    "casesPerOneMillion":253,
+    "deathsPerOneMillion":3,
+    "tests":70928,
+    "testsPerOneMillion":12991,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,46 ]
+    },
+    "properties": {
+    "updated":1587933011603,
+    "country":"Slovenia",
+    "countryInfo___id":"705",
+    "countryInfo__iso2":"SI",
+    "countryInfo__iso3":"SVN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/si.png",
+    "cases":1396,
+    "todayCases":8,
+    "deaths":82,
+    "todayDeaths":1,
+    "recovered":221,
+    "active":1093,
+    "critical":23,
+    "casesPerOneMillion":671,
+    "deathsPerOneMillion":39,
+    "tests":48973,
+    "testsPerOneMillion":23557,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49,10 ]
+    },
+    "properties": {
+    "updated":1587933011635,
+    "country":"Somalia",
+    "countryInfo___id":"706",
+    "countryInfo__iso2":"SO",
+    "countryInfo__iso3":"SOM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/so.png",
+    "cases":436,
+    "todayCases":46,
+    "deaths":23,
+    "todayDeaths":5,
+    "recovered":10,
+    "active":403,
+    "critical":2,
+    "casesPerOneMillion":27,
+    "deathsPerOneMillion":1,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,-29 ]
+    },
+    "properties": {
+    "updated":1587933011563,
+    "country":"South Africa",
+    "countryInfo___id":"710",
+    "countryInfo__iso2":"ZA",
+    "countryInfo__iso3":"ZAF",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/za.png",
+    "cases":4546,
+    "todayCases":185,
+    "deaths":87,
+    "todayDeaths":1,
+    "recovered":1473,
+    "active":2986,
+    "critical":36,
+    "casesPerOneMillion":77,
+    "deathsPerOneMillion":1,
+    "tests":168643,
+    "testsPerOneMillion":2843,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.3069,6.8769 ]
+    },
+    "properties": {
+    "updated":1587933011719,
+    "country":"South Sudan",
+    "countryInfo___id":"728",
+    "countryInfo__iso2":"SS",
+    "countryInfo__iso3":"SSD",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ss.png",
+    "cases":6,
+    "todayCases":1,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":0,
+    "active":6,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4,40 ]
+    },
+    "properties": {
+    "updated":1587933011467,
+    "country":"Spain",
+    "countryInfo___id":"724",
+    "countryInfo__iso2":"ES",
+    "countryInfo__iso3":"ESP",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/es.png",
+    "cases":226629,
+    "todayCases":2870,
+    "deaths":23190,
+    "todayDeaths":288,
+    "recovered":117727,
+    "active":85712,
+    "critical":7764,
+    "casesPerOneMillion":4847,
+    "deathsPerOneMillion":496,
+    "tests":1199548,
+    "testsPerOneMillion":25656,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81,7 ]
+    },
+    "properties": {
+    "updated":1587933011630,
+    "country":"Sri Lanka",
+    "countryInfo___id":"144",
+    "countryInfo__iso2":"LK",
+    "countryInfo__iso3":"LKA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/lk.png",
+    "cases":523,
+    "todayCases":71,
+    "deaths":7,
+    "todayDeaths":0,
+    "recovered":120,
+    "active":396,
+    "critical":2,
+    "casesPerOneMillion":24,
+    "deathsPerOneMillion":0,
+    "tests":13850,
+    "testsPerOneMillion":647,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.82,17.89 ]
+    },
+    "properties": {
+    "updated":1587933011718,
+    "country":"St. Barth",
+    "countryInfo___id":"652",
+    "countryInfo__iso2":"BL",
+    "countryInfo__iso3":"BLM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/bl.png",
+    "cases":6,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":6,
+    "active":0,
+    "critical":0,
+    "casesPerOneMillion":607,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,15 ]
+    },
+    "properties": {
+    "updated":1587933011648,
+    "country":"Sudan",
+    "countryInfo___id":"736",
+    "countryInfo__iso2":"SD",
+    "countryInfo__iso3":"SDN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sd.png",
+    "cases":237,
+    "todayCases":24,
+    "deaths":21,
+    "todayDeaths":4,
+    "recovered":20,
+    "active":196,
+    "critical":0,
+    "casesPerOneMillion":5,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56,4 ]
+    },
+    "properties": {
+    "updated":1587933011713,
+    "country":"Suriname",
+    "countryInfo___id":"740",
+    "countryInfo__iso2":"SR",
+    "countryInfo__iso3":"SUR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sr.png",
+    "cases":10,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":7,
+    "active":2,
+    "critical":0,
+    "casesPerOneMillion":17,
+    "deathsPerOneMillion":2,
+    "tests":404,
+    "testsPerOneMillion":689,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.5,-26.5 ]
+    },
+    "properties": {
+    "updated":1587933011685,
+    "country":"Swaziland",
+    "countryInfo___id":"748",
+    "countryInfo__iso2":"SZ",
+    "countryInfo__iso3":"SWZ",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sz.png",
+    "cases":59,
+    "todayCases":3,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":10,
+    "active":48,
+    "critical":0,
+    "casesPerOneMillion":51,
+    "deathsPerOneMillion":0,
+    "tests":714,
+    "testsPerOneMillion":615,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15,62 ]
+    },
+    "properties": {
+    "updated":1587933011502,
+    "country":"Sweden",
+    "countryInfo___id":"752",
+    "countryInfo__iso2":"SE",
+    "countryInfo__iso3":"SWE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/se.png",
+    "cases":18640,
+    "todayCases":463,
+    "deaths":2194,
+    "todayDeaths":2,
+    "recovered":1005,
+    "active":15441,
+    "critical":399,
+    "casesPerOneMillion":1846,
+    "deathsPerOneMillion":217,
+    "tests":94500,
+    "testsPerOneMillion":9357,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,47 ]
+    },
+    "properties": {
+    "updated":1587933011488,
+    "country":"Switzerland",
+    "countryInfo___id":"756",
+    "countryInfo__iso2":"CH",
+    "countryInfo__iso3":"CHE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ch.png",
+    "cases":29061,
+    "todayCases":167,
+    "deaths":1610,
+    "todayDeaths":11,
+    "recovered":21300,
+    "active":6151,
+    "critical":204,
+    "casesPerOneMillion":3358,
+    "deathsPerOneMillion":186,
+    "tests":245300,
+    "testsPerOneMillion":28343,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38,35 ]
+    },
+    "properties": {
+    "updated":1587933011690,
+    "country":"Syrian Arab Republic",
+    "countryInfo___id":"760",
+    "countryInfo__iso2":"SY",
+    "countryInfo__iso3":"SYR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/sy.png",
+    "cases":43,
+    "todayCases":1,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":14,
+    "active":26,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,23.5 ]
+    },
+    "properties": {
+    "updated":1587933011636,
+    "country":"Taiwan",
+    "countryInfo___id":"158",
+    "countryInfo__iso2":"TW",
+    "countryInfo__iso3":"TWN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tw.png",
+    "cases":429,
+    "todayCases":0,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":281,
+    "active":142,
+    "critical":0,
+    "casesPerOneMillion":18,
+    "deathsPerOneMillion":0,
+    "tests":60459,
+    "testsPerOneMillion":2539,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,-6 ]
+    },
+    "properties": {
+    "updated":1587933011645,
+    "country":"Tanzania",
+    "countryInfo___id":"834",
+    "countryInfo__iso2":"TZ",
+    "countryInfo__iso3":"TZA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tz.png",
+    "cases":299,
+    "todayCases":0,
+    "deaths":10,
+    "todayDeaths":0,
+    "recovered":48,
+    "active":241,
+    "critical":7,
+    "casesPerOneMillion":5,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,15 ]
+    },
+    "properties": {
+    "updated":1587933011579,
+    "country":"Thailand",
+    "countryInfo___id":"764",
+    "countryInfo__iso2":"TH",
+    "countryInfo__iso3":"THA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/th.png",
+    "cases":2922,
+    "todayCases":15,
+    "deaths":51,
+    "todayDeaths":0,
+    "recovered":2594,
+    "active":277,
+    "critical":61,
+    "casesPerOneMillion":42,
+    "deathsPerOneMillion":0,
+    "tests":142589,
+    "testsPerOneMillion":2043,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.5167,-8.55 ]
+    },
+    "properties": {
+    "updated":1587933011697,
+    "country":"Timor-Leste",
+    "countryInfo___id":"626",
+    "countryInfo__iso2":"TL",
+    "countryInfo__iso3":"TLS",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tl.png",
+    "cases":24,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":2,
+    "active":22,
+    "critical":0,
+    "casesPerOneMillion":18,
+    "deathsPerOneMillion":0,
+    "tests":322,
+    "testsPerOneMillion":244,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1667,8 ]
+    },
+    "properties": {
+    "updated":1587933011667,
+    "country":"Togo",
+    "countryInfo___id":"768",
+    "countryInfo__iso2":"TG",
+    "countryInfo__iso3":"TGO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tg.png",
+    "cases":98,
+    "todayCases":2,
+    "deaths":6,
+    "todayDeaths":0,
+    "recovered":62,
+    "active":30,
+    "critical":0,
+    "casesPerOneMillion":12,
+    "deathsPerOneMillion":0,
+    "tests":5951,
+    "testsPerOneMillion":719,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61,11 ]
+    },
+    "properties": {
+    "updated":1587933011663,
+    "country":"Trinidad and Tobago",
+    "countryInfo___id":"780",
+    "countryInfo__iso2":"TT",
+    "countryInfo__iso3":"TTO",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tt.png",
+    "cases":115,
+    "todayCases":0,
+    "deaths":8,
+    "todayDeaths":0,
+    "recovered":53,
+    "active":54,
+    "critical":0,
+    "casesPerOneMillion":82,
+    "deathsPerOneMillion":6,
+    "tests":1514,
+    "testsPerOneMillion":1082,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,34 ]
+    },
+    "properties": {
+    "updated":1587933011612,
+    "country":"Tunisia",
+    "countryInfo___id":"788",
+    "countryInfo__iso2":"TN",
+    "countryInfo__iso3":"TUN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tn.png",
+    "cases":939,
+    "todayCases":0,
+    "deaths":38,
+    "todayDeaths":0,
+    "recovered":207,
+    "active":694,
+    "critical":19,
+    "casesPerOneMillion":79,
+    "deathsPerOneMillion":3,
+    "tests":20408,
+    "testsPerOneMillion":1727,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,39 ]
+    },
+    "properties": {
+    "updated":1587933011476,
+    "country":"Turkey",
+    "countryInfo___id":"792",
+    "countryInfo__iso2":"TR",
+    "countryInfo__iso3":"TUR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tr.png",
+    "cases":110130,
+    "todayCases":2357,
+    "deaths":2805,
+    "todayDeaths":99,
+    "recovered":29140,
+    "active":78185,
+    "critical":1776,
+    "casesPerOneMillion":1306,
+    "deathsPerOneMillion":33,
+    "tests":898742,
+    "testsPerOneMillion":10656,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5833,21.75 ]
+    },
+    "properties": {
+    "updated":1587933011711,
+    "country":"Turks and Caicos Islands",
+    "countryInfo___id":"796",
+    "countryInfo__iso2":"TC",
+    "countryInfo__iso3":"TCA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/tc.png",
+    "cases":11,
+    "todayCases":0,
+    "deaths":1,
+    "todayDeaths":0,
+    "recovered":4,
+    "active":6,
+    "critical":0,
+    "casesPerOneMillion":284,
+    "deathsPerOneMillion":26,
+    "tests":83,
+    "testsPerOneMillion":2144,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54,24 ]
+    },
+    "properties": {
+    "updated":1587933011535,
+    "country":"UAE",
+    "countryInfo___id":"784",
+    "countryInfo__iso2":"AE",
+    "countryInfo__iso3":"ARE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ae.png",
+    "cases":10349,
+    "todayCases":536,
+    "deaths":76,
+    "todayDeaths":5,
+    "recovered":1978,
+    "active":8295,
+    "critical":1,
+    "casesPerOneMillion":1046,
+    "deathsPerOneMillion":8,
+    "tests":1022326,
+    "testsPerOneMillion":103365,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2,54 ]
+    },
+    "properties": {
+    "updated":1587933011474,
+    "country":"UK",
+    "countryInfo___id":"826",
+    "countryInfo__iso2":"GB",
+    "countryInfo__iso3":"GBR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/gb.png",
+    "cases":152840,
+    "todayCases":4463,
+    "deaths":20732,
+    "todayDeaths":413,
+    "recovered":0,
+    "active":131764,
+    "critical":1559,
+    "casesPerOneMillion":2251,
+    "deathsPerOneMillion":305,
+    "tests":669850,
+    "testsPerOneMillion":9867,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97,38 ]
+    },
+    "properties": {
+    "updated":1587933011465,
+    "country":"USA",
+    "countryInfo___id":"840",
+    "countryInfo__iso2":"US",
+    "countryInfo__iso3":"USA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/us.png",
+    "cases":982611,
+    "todayCases":21960,
+    "deaths":55271,
+    "todayDeaths":1015,
+    "recovered":118735,
+    "active":808605,
+    "critical":15135,
+    "casesPerOneMillion":2969,
+    "deathsPerOneMillion":167,
+    "tests":5439388,
+    "testsPerOneMillion":16433,
+    "continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32,1 ]
+    },
+    "properties": {
+    "updated":1587933011677,
+    "country":"Uganda",
+    "countryInfo___id":"800",
+    "countryInfo__iso2":"UG",
+    "countryInfo__iso3":"UGA",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ug.png",
+    "cases":75,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":46,
+    "active":29,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":20329,
+    "testsPerOneMillion":444,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32,49 ]
+    },
+    "properties": {
+    "updated":1587933011540,
+    "country":"Ukraine",
+    "countryInfo___id":"804",
+    "countryInfo__iso2":"UA",
+    "countryInfo__iso3":"UKR",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ua.png",
+    "cases":8617,
+    "todayCases":492,
+    "deaths":209,
+    "todayDeaths":8,
+    "recovered":840,
+    "active":7568,
+    "critical":107,
+    "casesPerOneMillion":197,
+    "deathsPerOneMillion":5,
+    "tests":89373,
+    "testsPerOneMillion":2044,
+    "continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56,-33 ]
+    },
+    "properties": {
+    "updated":1587933011626,
+    "country":"Uruguay",
+    "countryInfo___id":"858",
+    "countryInfo__iso2":"UY",
+    "countryInfo__iso3":"URY",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/uy.png",
+    "cases":596,
+    "todayCases":33,
+    "deaths":14,
+    "todayDeaths":2,
+    "recovered":370,
+    "active":212,
+    "critical":9,
+    "casesPerOneMillion":172,
+    "deathsPerOneMillion":4,
+    "tests":16496,
+    "testsPerOneMillion":4749,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64,41 ]
+    },
+    "properties": {
+    "updated":1587933011589,
+    "country":"Uzbekistan",
+    "countryInfo___id":"860",
+    "countryInfo__iso2":"UZ",
+    "countryInfo__iso3":"UZB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/uz.png",
+    "cases":1869,
+    "todayCases":7,
+    "deaths":8,
+    "todayDeaths":0,
+    "recovered":789,
+    "active":1072,
+    "critical":8,
+    "casesPerOneMillion":56,
+    "deathsPerOneMillion":0,
+    "tests":242536,
+    "testsPerOneMillion":7247,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66,8 ]
+    },
+    "properties": {
+    "updated":1587933011642,
+    "country":"Venezuela",
+    "countryInfo___id":"862",
+    "countryInfo__iso2":"VE",
+    "countryInfo__iso3":"VEN",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ve.png",
+    "cases":323,
+    "todayCases":0,
+    "deaths":10,
+    "todayDeaths":0,
+    "recovered":132,
+    "active":181,
+    "critical":3,
+    "casesPerOneMillion":11,
+    "deathsPerOneMillion":0,
+    "tests":423592,
+    "testsPerOneMillion":14896,
+    "continent":"South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8,21 ]
+    },
+    "properties": {
+    "updated":1587933011647,
+    "country":"Vietnam",
+    "countryInfo___id":"704",
+    "countryInfo__iso2":"VN",
+    "countryInfo__iso3":"VNM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/vn.png",
+    "cases":270,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":225,
+    "active":45,
+    "critical":8,
+    "casesPerOneMillion":3,
+    "deathsPerOneMillion":0,
+    "tests":212965,
+    "testsPerOneMillion":2188,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13,24.5 ]
+    },
+    "properties": {
+    "updated":1587933011720,
+    "country":"Western Sahara",
+    "countryInfo___id":"732",
+    "countryInfo__iso2":"EH",
+    "countryInfo__iso3":"ESH",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/eh.png",
+    "cases":6,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":5,
+    "active":1,
+    "critical":0,
+    "casesPerOneMillion":10,
+    "deathsPerOneMillion":0,
+    "tests":0,
+    "testsPerOneMillion":0,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48,15 ]
+    },
+    "properties": {
+    "updated":1587933011723,
+    "country":"Yemen",
+    "countryInfo___id":"887",
+    "countryInfo__iso2":"YE",
+    "countryInfo__iso3":"YEM",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/ye.png",
+    "cases":1,
+    "todayCases":0,
+    "deaths":0,
+    "todayDeaths":0,
+    "recovered":1,
+    "active":0,
+    "critical":0,
+    "casesPerOneMillion":0,
+    "deathsPerOneMillion":0,
+    "tests":120,
+    "testsPerOneMillion":4,
+    "continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-15 ]
+    },
+    "properties": {
+    "updated":1587933011671,
+    "country":"Zambia",
+    "countryInfo___id":"894",
+    "countryInfo__iso2":"ZM",
+    "countryInfo__iso3":"ZMB",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/zm.png",
+    "cases":88,
+    "todayCases":4,
+    "deaths":3,
+    "todayDeaths":0,
+    "recovered":42,
+    "active":43,
+    "critical":1,
+    "casesPerOneMillion":5,
+    "deathsPerOneMillion":0,
+    "tests":2586,
+    "testsPerOneMillion":141,
+    "continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-20 ]
+    },
+    "properties": {
+    "updated":1587933011694,
+    "country":"Zimbabwe",
+    "countryInfo___id":"716",
+    "countryInfo__iso2":"ZW",
+    "countryInfo__iso3":"ZWE",
+    "countryInfo__flag":"https://corona.lmao.ninja/assets/img/flags/zw.png",
+    "cases":31,
+    "todayCases":0,
+    "deaths":4,
+    "todayDeaths":0,
+    "recovered":2,
+    "active":25,
+    "critical":0,
+    "casesPerOneMillion":2,
+    "deathsPerOneMillion":0,
+    "tests":6067,
+    "testsPerOneMillion":408,
+    "continent":"Africa"
+    }
+  }
+]
+}

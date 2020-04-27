@@ -1,8 +1,9 @@
 body{
-    background-color: rgba(255,255,255);
+    background-color: rgb(255, 255, 255);
 }
 
 .container{
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,5 +13,24 @@ body{
 .image{
     width: 370px;
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 6%;
 }
+
+
+@media screen and (max-width:768px){
+    
+    .image{
+        width: 75%;
+    }
+    
+}
+
+@media screen and (min-width:768px){
+    
+    .image{
+        margin-bottom: 10%;
+    }
+    
+}
+
+
